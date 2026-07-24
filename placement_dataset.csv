@@ -1,0 +1,1001 @@
+Student_ID,Gender,Age,Branch,CGPA,Tenth_Percentage,Twelfth_Percentage,Python,Java,SQL,Excel,PowerBI,Tableau,Machine_Learning,Communication_Skill,Aptitude_Score,Projects,Internship,Certifications,LeetCode_Problems,Hackathons,Resume_Score,Placement_Readiness,Expected_Salary_LPA,Placement
+1001,Female,21,BCA,8.25,61.0,70.5,Yes,Yes,Yes,Yes,No,Yes,Yes,4,5,1,Yes,4,101,5,96,72,8.0,Yes
+1002,Female,20,BSc CS,8.03,90.8,60.2,Yes,No,No,No,Yes,Yes,No,4,4,3,Yes,2,176,4,98,70,7.8,Yes
+1003,Female,23,BSc CS,7.48,64.7,95.0,Yes,No,No,Yes,Yes,Yes,Yes,10,6,0,Yes,6,51,3,100,78,8.5,Yes
+1004,Male,20,BCA,9.09,66.2,73.5,No,Yes,Yes,Yes,Yes,No,No,6,9,5,Yes,5,166,0,100,87,9.2,Yes
+1005,Female,22,BCA Data Science,7.23,62.5,94.7,No,Yes,No,No,No,Yes,No,5,5,5,No,5,299,3,97,73,8.1,Yes
+1006,Male,24,BCA,9.79,65.3,78.8,Yes,Yes,Yes,Yes,No,Yes,No,7,8,3,No,4,5,5,100,84,9.0,Yes
+1007,Male,24,BCA,8.8,72.9,71.2,Yes,No,Yes,No,Yes,Yes,No,10,9,4,Yes,1,191,1,100,87,9.2,Yes
+1008,Male,22,BSc CS,7.6,64.3,73.8,No,Yes,Yes,Yes,Yes,Yes,No,10,4,6,Yes,1,243,4,100,72,8.0,Yes
+1009,Male,20,BCA Data Science,9.25,76.1,68.0,Yes,No,No,No,No,No,Yes,5,5,0,No,0,283,1,84,65,7.4,Yes
+1010,Male,20,BCA Data Science,8.54,62.2,62.6,Yes,No,Yes,Yes,No,No,Yes,8,5,5,No,1,242,3,100,75,8.2,Yes
+1011,Female,23,BCA Data Science,8.33,73.5,75.6,Yes,Yes,Yes,No,No,Yes,Yes,5,5,4,No,1,216,1,94,71,7.9,Yes
+1012,Male,23,BCA,9.26,62.9,90.7,Yes,Yes,Yes,Yes,Yes,Yes,No,7,7,1,No,0,84,3,92,76,8.3,Yes
+1013,Male,20,BSc CS,9.48,89.8,70.8,No,Yes,Yes,No,Yes,Yes,Yes,9,6,0,Yes,4,244,4,100,78,8.5,Yes
+1014,Female,21,BCA,5.84,67.1,82.6,Yes,No,Yes,Yes,Yes,Yes,No,9,8,4,No,2,104,5,84,74,8.2,Yes
+1015,Female,21,BCA,7.2,85.5,71.4,No,Yes,Yes,No,Yes,Yes,Yes,8,6,1,No,0,125,2,77,64,7.3,Yes
+1016,Female,21,BSc CS,9.09,86.7,83.2,Yes,No,Yes,Yes,No,Yes,Yes,9,8,1,No,2,107,5,98,82,8.8,Yes
+1017,Female,24,BCA Data Science,8.23,70.0,78.6,Yes,Yes,No,No,Yes,Yes,No,10,5,5,No,1,226,4,100,75,8.2,Yes
+1018,Male,20,BCA,5.98,95.9,86.3,Yes,Yes,No,Yes,No,Yes,Yes,6,6,6,Yes,2,107,5,97,76,8.3,Yes
+1019,Male,20,BCA,8.85,93.6,75.4,Yes,Yes,Yes,Yes,No,Yes,Yes,9,6,6,No,6,127,2,100,78,8.5,Yes
+1020,Female,24,BCA,9.25,92.6,68.5,No,No,No,Yes,Yes,Yes,Yes,7,6,2,Yes,6,142,2,100,78,8.5,Yes
+1021,Female,20,BSc CS,9.54,64.4,96.9,Yes,No,Yes,Yes,No,No,No,7,8,4,Yes,3,295,1,100,84,9.0,Yes
+1022,Female,22,BSc CS,7.38,79.8,90.6,Yes,No,No,Yes,No,No,Yes,9,6,4,No,5,209,2,100,78,8.5,Yes
+1023,Male,24,BCA,6.05,76.0,95.7,Yes,No,No,Yes,No,No,Yes,7,10,4,No,3,226,3,84,80,8.7,Yes
+1024,Male,23,BCA,8.91,96.5,88.0,Yes,No,No,Yes,Yes,No,Yes,10,5,1,Yes,0,125,3,100,75,8.2,Yes
+1025,Male,24,BCA Data Science,9.31,81.9,87.3,No,No,No,Yes,Yes,Yes,Yes,10,7,1,Yes,6,265,3,100,81,8.8,Yes
+1026,Female,21,BCA,9.45,64.6,65.1,No,No,No,No,No,Yes,No,7,6,6,Yes,6,141,4,100,78,8.5,Yes
+1027,Female,24,BCA,7.39,87.1,68.9,No,No,Yes,Yes,Yes,Yes,No,9,5,5,Yes,0,212,3,100,75,8.2,Yes
+1028,Female,23,BCA Data Science,7.29,67.9,76.0,Yes,No,No,Yes,No,No,No,10,10,3,Yes,3,112,2,100,90,9.5,Yes
+1029,Female,22,BCA Data Science,7.17,85.4,90.3,Yes,No,Yes,Yes,No,Yes,Yes,9,7,1,No,1,25,2,81,69,7.8,Yes
+1030,Male,21,BCA Data Science,7.46,72.8,93.4,No,No,No,Yes,No,Yes,Yes,6,5,5,Yes,6,20,0,100,75,8.2,Yes
+1031,Female,24,BSc CS,8.17,69.1,78.0,Yes,Yes,No,No,No,Yes,Yes,10,10,1,No,0,296,0,89,83,8.9,Yes
+1032,Female,20,BCA,9.4,74.3,95.8,Yes,Yes,Yes,Yes,No,Yes,Yes,6,8,3,No,0,259,5,99,83,8.9,Yes
+1033,Female,23,BCA Data Science,9.04,64.0,96.5,No,Yes,No,Yes,No,No,No,7,10,5,No,2,125,0,100,90,9.5,Yes
+1034,Male,24,BCA Data Science,8.73,81.7,85.4,No,Yes,No,No,Yes,No,Yes,6,10,2,No,2,141,4,93,85,9.1,Yes
+1035,Female,24,BSc CS,5.87,87.4,78.6,Yes,No,No,No,Yes,Yes,No,5,7,5,Yes,2,297,2,90,75,8.2,Yes
+1036,Male,21,BCA Data Science,6.98,97.9,80.9,No,No,No,No,No,Yes,Yes,9,5,2,Yes,5,274,5,100,75,8.2,Yes
+1037,Female,21,BSc CS,8.68,70.5,82.4,No,Yes,Yes,No,Yes,No,Yes,6,4,5,Yes,2,23,0,100,72,8.0,Yes
+1038,Female,20,BSc CS,9.23,78.7,93.2,No,No,No,No,No,Yes,Yes,6,10,3,Yes,6,33,3,100,90,9.5,Yes
+1039,Male,24,BSc CS,8.21,62.0,65.7,No,Yes,Yes,Yes,No,Yes,No,7,7,2,No,2,291,4,91,75,8.2,Yes
+1040,Female,22,BSc CS,5.93,89.0,83.8,No,Yes,Yes,Yes,Yes,Yes,Yes,4,7,3,No,2,16,1,71,63,7.2,Yes
+1041,Female,23,BCA Data Science,9.2,62.7,68.9,No,Yes,No,Yes,Yes,Yes,No,10,5,0,Yes,1,157,4,100,75,8.2,Yes
+1042,Male,22,BSc CS,7.52,71.6,75.3,No,No,No,Yes,Yes,No,No,8,6,0,Yes,1,294,4,88,70,7.8,Yes
+1043,Female,23,BSc CS,5.67,88.7,77.9,No,No,Yes,No,No,Yes,No,6,7,2,No,5,53,1,75,66,7.5,Yes
+1044,Female,20,BCA Data Science,7.63,85.2,75.2,Yes,No,Yes,No,No,No,Yes,10,7,6,Yes,5,277,3,100,81,8.8,Yes
+1045,Male,22,BSc CS,7.73,83.7,78.9,No,Yes,Yes,No,Yes,No,No,9,7,0,Yes,5,122,5,99,80,8.7,Yes
+1046,Male,23,BCA Data Science,5.56,75.5,68.5,Yes,No,Yes,Yes,No,No,No,7,10,3,No,1,233,4,72,73,8.1,Yes
+1047,Female,22,BCA,9.46,79.3,93.4,Yes,No,No,No,No,Yes,No,9,6,6,No,6,76,3,100,78,8.5,Yes
+1048,Male,21,BSc CS,7.87,80.7,77.3,No,Yes,Yes,No,Yes,No,Yes,6,9,3,No,3,77,3,92,82,8.8,Yes
+1049,Male,22,BSc CS,9.65,72.6,63.8,No,Yes,No,Yes,Yes,No,Yes,4,7,6,No,2,203,5,100,81,8.8,Yes
+1050,Female,20,BCA Data Science,9.2,74.4,72.0,No,Yes,Yes,Yes,No,Yes,Yes,7,4,6,Yes,3,85,5,100,72,8.0,Yes
+1051,Male,21,BCA,6.89,62.1,73.6,No,Yes,Yes,No,Yes,Yes,Yes,4,8,6,No,4,123,3,95,81,8.8,Yes
+1052,Female,23,BCA Data Science,8.24,77.5,85.3,No,No,Yes,Yes,No,No,No,9,7,5,No,3,154,1,100,81,8.8,Yes
+1053,Male,24,BCA,6.52,81.7,81.8,No,Yes,No,No,Yes,Yes,No,10,6,6,Yes,4,180,1,100,78,8.5,Yes
+1054,Male,21,BSc CS,8.41,87.4,85.0,Yes,Yes,Yes,No,No,Yes,No,9,5,0,No,2,212,1,89,68,7.7,Yes
+1055,Female,20,BCA,9.27,73.9,79.1,No,Yes,No,No,No,No,Yes,7,4,1,Yes,6,203,4,100,72,8.0,Yes
+1056,Female,22,BSc CS,5.56,80.4,77.3,No,No,No,Yes,Yes,No,Yes,8,8,2,Yes,5,32,5,88,76,8.3,Yes
+1057,Male,23,BSc CS,7.26,65.3,96.0,No,No,Yes,Yes,Yes,Yes,No,7,6,5,No,4,79,3,100,78,8.5,Yes
+1058,Male,20,BCA,7.25,96.2,61.2,No,Yes,No,No,Yes,No,Yes,9,6,4,No,0,203,2,92,73,8.1,Yes
+1059,Female,21,BSc CS,5.89,68.1,84.3,Yes,Yes,No,Yes,Yes,Yes,Yes,10,10,4,Yes,4,110,1,100,90,9.5,Yes
+1060,Male,22,BCA Data Science,5.51,92.6,65.5,Yes,No,Yes,Yes,Yes,Yes,Yes,6,10,6,Yes,4,165,0,98,88,9.3,Yes
+1061,Female,23,BCA,6.05,76.0,64.3,Yes,No,No,No,Yes,No,Yes,8,4,5,No,3,15,0,90,66,7.5,Yes
+1062,Female,24,BSc CS,8.45,78.6,94.6,Yes,Yes,No,Yes,Yes,Yes,No,8,9,4,No,3,271,2,100,87,9.2,Yes
+1063,Female,22,BCA Data Science,7.35,90.1,64.3,Yes,No,No,Yes,No,No,No,7,7,5,Yes,2,218,2,100,81,8.8,Yes
+1064,Female,23,BSc CS,8.45,78.0,63.5,Yes,Yes,No,Yes,No,Yes,Yes,8,8,4,No,5,62,3,100,84,9.0,Yes
+1065,Male,23,BSc CS,5.72,70.9,71.9,Yes,Yes,Yes,No,Yes,Yes,No,10,8,2,Yes,6,142,4,95,81,8.8,Yes
+1066,Male,20,BCA Data Science,9.69,91.1,83.3,Yes,No,Yes,Yes,No,No,No,6,4,1,Yes,4,205,0,100,72,8.0,Yes
+1067,Female,23,BCA,8.71,68.2,76.0,No,Yes,No,No,No,Yes,Yes,5,5,6,Yes,5,41,2,100,75,8.2,Yes
+1068,Male,21,BCA,8.11,75.7,68.2,Yes,No,No,Yes,No,No,No,4,5,3,Yes,0,104,2,94,71,7.9,Yes
+1069,Male,22,BSc CS,6.74,64.6,78.9,No,Yes,Yes,No,Yes,No,Yes,7,10,5,Yes,3,9,3,100,90,9.5,Yes
+1070,Female,24,BCA,7.35,75.4,84.3,No,Yes,No,Yes,No,Yes,No,10,9,2,Yes,3,54,1,100,87,9.2,Yes
+1071,Female,21,BCA Data Science,7.75,75.0,71.8,No,Yes,No,Yes,Yes,Yes,Yes,10,6,2,Yes,1,52,1,100,78,8.5,Yes
+1072,Male,22,BSc CS,8.09,88.9,84.9,Yes,No,No,No,No,No,Yes,7,4,3,No,5,155,2,100,72,8.0,Yes
+1073,Male,20,BCA,5.82,77.5,61.4,No,No,Yes,Yes,No,No,Yes,7,10,4,Yes,2,243,4,90,84,9.0,Yes
+1074,Male,22,BCA Data Science,5.95,94.2,73.1,Yes,Yes,Yes,Yes,No,No,Yes,6,6,2,No,3,173,5,73,61,7.1,Yes
+1075,Female,22,BCA Data Science,6.92,81.2,74.7,No,Yes,No,Yes,Yes,No,No,9,9,5,No,1,43,2,95,84,9.0,Yes
+1076,Male,20,BCA,8.38,91.5,88.1,Yes,No,No,Yes,No,No,Yes,5,6,6,No,1,115,1,100,78,8.5,Yes
+1077,Female,22,BSc CS,9.13,63.8,89.3,Yes,No,Yes,No,Yes,Yes,Yes,10,9,6,Yes,5,224,0,100,87,9.2,Yes
+1078,Female,21,BCA Data Science,8.59,96.8,83.2,No,Yes,Yes,No,No,Yes,No,9,8,3,No,6,144,3,100,84,9.0,Yes
+1079,Male,23,BCA,8.95,65.3,69.5,No,No,Yes,Yes,No,Yes,Yes,6,7,4,Yes,6,223,0,100,81,8.8,Yes
+1080,Male,22,BCA,9.5,75.8,75.1,No,Yes,No,Yes,No,Yes,Yes,6,4,6,No,6,74,1,100,72,8.0,Yes
+1081,Female,20,BCA Data Science,8.49,65.3,86.8,No,Yes,Yes,Yes,No,Yes,Yes,8,9,4,No,0,147,1,99,86,9.2,Yes
+1082,Male,20,BSc CS,6.53,84.3,83.7,Yes,Yes,No,Yes,Yes,Yes,No,7,4,4,No,1,292,3,84,62,7.2,Yes
+1083,Male,24,BSc CS,9.69,62.6,80.0,Yes,No,No,Yes,No,No,No,9,4,2,Yes,2,123,5,100,72,8.0,Yes
+1084,Male,20,BCA,8.75,65.1,73.4,No,Yes,No,No,Yes,Yes,Yes,9,10,3,Yes,2,103,0,100,90,9.5,Yes
+1085,Female,23,BCA,9.51,79.6,97.6,No,No,Yes,Yes,No,No,Yes,10,9,2,No,0,188,3,100,87,9.2,Yes
+1086,Female,22,BCA,6.96,67.1,86.3,No,No,Yes,No,Yes,No,Yes,8,6,2,Yes,0,167,5,89,71,7.9,Yes
+1087,Male,20,BCA Data Science,8.09,76.2,86.2,No,No,Yes,No,No,No,Yes,4,9,5,No,2,262,5,96,84,9.0,Yes
+1088,Male,24,BCA Data Science,9.15,85.8,76.7,Yes,Yes,Yes,No,No,No,Yes,8,5,5,No,2,190,3,100,75,8.2,Yes
+1089,Female,21,BCA Data Science,7.78,75.1,84.7,Yes,Yes,Yes,Yes,No,No,Yes,6,10,2,No,1,146,5,84,80,8.7,Yes
+1090,Male,20,BCA Data Science,6.08,62.8,66.6,No,Yes,No,No,Yes,No,No,10,5,5,Yes,6,185,4,100,75,8.2,Yes
+1091,Male,21,BCA,8.91,69.0,78.8,No,No,No,Yes,Yes,Yes,No,7,9,5,No,4,210,3,100,87,9.2,Yes
+1092,Male,22,BSc CS,8.26,77.1,85.8,No,Yes,Yes,Yes,No,Yes,Yes,8,5,2,Yes,1,165,5,100,75,8.2,Yes
+1093,Male,20,BCA Data Science,9.35,92.1,69.5,No,Yes,No,Yes,Yes,Yes,Yes,9,8,5,No,6,288,0,100,84,9.0,Yes
+1094,Male,21,BCA,9.58,89.3,70.1,Yes,No,Yes,No,No,No,No,5,10,6,No,2,232,0,100,90,9.5,Yes
+1095,Female,23,BCA Data Science,7.29,77.6,72.9,Yes,No,No,No,No,Yes,No,8,8,0,No,1,238,0,76,69,7.8,Yes
+1096,Male,23,BSc CS,6.11,61.9,95.9,No,Yes,Yes,No,No,Yes,Yes,7,8,3,No,2,254,0,78,70,7.8,Yes
+1097,Female,20,BCA,7.47,69.1,82.2,Yes,Yes,No,No,No,No,Yes,10,4,3,Yes,2,187,3,100,72,8.0,Yes
+1098,Male,24,BSc CS,5.72,81.3,73.8,No,Yes,No,No,No,Yes,Yes,4,7,2,No,4,187,1,69,62,7.2,No
+1099,Female,24,BCA,7.23,61.5,61.5,No,No,No,Yes,Yes,No,No,5,7,4,No,4,172,4,91,75,8.2,Yes
+1100,Female,21,BSc CS,7.54,60.6,72.6,Yes,No,No,Yes,No,No,Yes,9,4,4,No,1,268,5,96,69,7.8,Yes
+1101,Male,24,BCA Data Science,6.54,81.8,86.6,Yes,Yes,No,No,No,Yes,No,9,5,3,No,6,31,5,94,71,7.9,Yes
+1102,Male,22,BCA,7.91,97.9,78.2,No,No,Yes,No,No,No,No,8,7,1,Yes,2,285,2,97,79,8.6,Yes
+1103,Male,22,BCA,8.53,86.2,78.6,No,No,No,No,Yes,No,No,10,6,6,Yes,2,21,2,100,78,8.5,Yes
+1104,Female,23,BCA Data Science,8.32,88.4,68.1,No,No,Yes,Yes,Yes,Yes,Yes,9,8,1,Yes,0,51,3,98,82,8.8,Yes
+1105,Male,21,BCA,8.43,65.2,96.7,Yes,No,No,No,Yes,No,No,6,9,0,Yes,5,293,1,99,86,9.2,Yes
+1106,Female,21,BSc CS,9.29,66.7,94.9,No,No,Yes,No,Yes,Yes,No,8,8,0,No,2,232,5,94,80,8.7,Yes
+1107,Female,20,BCA,7.51,67.3,64.3,Yes,No,No,Yes,Yes,No,No,8,9,6,Yes,1,207,3,100,87,9.2,Yes
+1108,Female,22,BSc CS,8.38,67.0,65.3,No,Yes,Yes,No,No,Yes,No,10,6,2,No,4,293,0,100,78,8.5,Yes
+1109,Female,24,BSc CS,6.52,85.4,77.7,Yes,No,No,Yes,No,No,Yes,5,5,3,Yes,3,191,3,90,69,7.8,Yes
+1110,Male,21,BSc CS,9.05,89.0,85.9,Yes,No,No,Yes,Yes,Yes,Yes,8,8,1,Yes,2,266,3,100,84,9.0,Yes
+1111,Male,24,BCA Data Science,8.01,63.5,79.4,Yes,No,Yes,No,No,Yes,No,9,10,2,Yes,3,130,0,100,90,9.5,Yes
+1112,Female,23,BCA Data Science,5.69,73.1,62.4,Yes,Yes,No,Yes,No,No,Yes,10,5,6,No,2,195,3,93,70,7.8,Yes
+1113,Female,21,BCA Data Science,8.44,85.1,80.5,No,Yes,Yes,No,Yes,Yes,Yes,10,4,2,No,5,278,3,100,72,8.0,Yes
+1114,Male,23,BCA,7.48,65.9,67.2,Yes,Yes,No,Yes,Yes,Yes,Yes,4,8,0,No,4,24,1,75,69,7.8,Yes
+1115,Male,24,BSc CS,6.51,68.3,92.8,Yes,Yes,No,Yes,No,No,Yes,6,5,5,Yes,3,153,2,100,75,8.2,Yes
+1116,Male,21,BCA,9.28,94.6,83.8,No,No,Yes,No,No,No,No,7,5,2,No,1,275,3,98,73,8.1,Yes
+1117,Male,20,BCA,9.19,65.5,77.6,Yes,No,No,Yes,No,Yes,No,5,6,5,Yes,3,189,0,100,78,8.5,Yes
+1118,Male,23,BCA Data Science,7.12,83.0,61.5,Yes,Yes,Yes,No,Yes,No,No,4,5,1,Yes,5,245,1,88,67,7.6,Yes
+1119,Female,20,BSc CS,7.87,89.5,74.5,No,No,No,No,No,No,Yes,10,9,3,No,1,189,2,96,84,9.0,Yes
+1120,Female,23,BCA,9.22,88.2,60.6,No,No,Yes,Yes,No,Yes,No,8,10,1,No,4,172,2,100,90,9.5,Yes
+1121,Male,24,BCA,6.22,90.2,66.4,No,Yes,Yes,Yes,Yes,Yes,Yes,7,5,6,Yes,0,77,0,97,73,8.1,Yes
+1122,Female,21,BCA Data Science,7.1,83.5,85.3,No,No,Yes,Yes,No,Yes,Yes,8,9,2,No,0,257,5,80,75,8.2,Yes
+1123,Male,20,BCA,9.45,79.9,69.2,No,No,No,No,Yes,No,No,7,8,1,Yes,2,41,5,100,84,9.0,Yes
+1124,Female,20,BCA Data Science,7.13,81.0,62.1,Yes,Yes,Yes,No,No,No,Yes,8,4,1,Yes,6,290,3,99,71,7.9,Yes
+1125,Female,23,BSc CS,8.44,70.7,80.6,Yes,Yes,No,Yes,Yes,Yes,No,4,6,1,Yes,4,199,5,97,76,8.3,Yes
+1126,Female,23,BCA,6.1,97.6,87.5,No,Yes,Yes,No,Yes,Yes,No,8,10,4,No,6,167,0,92,85,9.1,Yes
+1127,Female,20,BCA Data Science,6.48,81.0,74.3,Yes,No,Yes,No,Yes,Yes,Yes,6,5,3,Yes,5,199,2,95,72,8.0,Yes
+1128,Female,24,BCA Data Science,5.52,71.7,73.7,No,Yes,Yes,Yes,Yes,No,No,8,8,4,No,0,13,0,76,69,7.8,Yes
+1129,Female,21,BCA Data Science,8.07,89.8,92.8,Yes,No,No,No,Yes,Yes,Yes,9,7,1,Yes,2,154,2,100,81,8.8,Yes
+1130,Female,22,BCA,6.22,70.5,71.4,Yes,No,No,Yes,No,Yes,No,4,5,2,Yes,3,170,4,81,63,7.2,Yes
+1131,Female,22,BCA,6.94,91.0,92.7,Yes,No,No,Yes,No,No,Yes,7,6,2,No,4,124,2,85,69,7.8,Yes
+1132,Female,21,BCA,7.07,95.4,67.6,Yes,Yes,No,Yes,No,No,Yes,10,10,6,No,5,255,1,100,90,9.5,Yes
+1133,Female,21,BSc CS,8.33,87.2,90.0,Yes,No,No,No,No,Yes,No,9,10,4,Yes,0,127,5,100,90,9.5,Yes
+1134,Female,24,BSc CS,8.13,81.4,84.5,No,No,No,Yes,Yes,Yes,No,5,8,5,Yes,3,191,3,100,84,9.0,Yes
+1135,Female,20,BCA,7.65,73.1,60.9,Yes,No,No,Yes,Yes,Yes,No,6,6,3,Yes,4,247,2,100,78,8.5,Yes
+1136,Female,21,BCA,8.6,77.2,62.6,Yes,Yes,Yes,No,Yes,Yes,Yes,8,5,4,Yes,2,286,3,100,75,8.2,Yes
+1137,Male,24,BCA Data Science,8.21,67.1,85.0,No,Yes,Yes,No,No,No,Yes,9,5,1,No,6,32,4,99,74,8.2,Yes
+1138,Male,21,BCA,7.07,67.5,64.3,No,No,No,No,Yes,No,No,10,7,4,Yes,6,152,4,100,81,8.8,Yes
+1139,Female,21,BCA Data Science,6.01,71.6,67.0,Yes,No,No,Yes,No,No,Yes,7,9,4,Yes,4,85,3,96,84,9.0,Yes
+1140,Male,20,BSc CS,6.85,77.1,62.0,No,Yes,No,Yes,Yes,No,No,7,9,3,No,5,227,3,90,81,8.8,Yes
+1141,Female,24,BCA Data Science,5.63,88.9,71.1,No,Yes,No,Yes,No,No,Yes,8,4,2,No,4,21,5,77,58,6.8,No
+1142,Female,21,BSc CS,9.76,63.9,91.5,Yes,No,Yes,No,No,No,Yes,7,10,0,Yes,1,179,5,100,90,9.5,Yes
+1143,Female,21,BSc CS,6.1,67.9,67.9,Yes,No,No,Yes,No,No,No,8,6,6,Yes,1,210,0,100,78,8.5,Yes
+1144,Female,22,BCA,9.22,69.5,87.0,Yes,No,No,Yes,No,No,No,7,4,5,Yes,3,263,5,100,72,8.0,Yes
+1145,Male,24,BCA,9.59,72.4,60.1,Yes,No,No,Yes,No,Yes,No,10,5,3,No,2,145,2,100,75,8.2,Yes
+1146,Female,21,BCA,8.89,94.0,89.0,Yes,Yes,No,Yes,Yes,Yes,No,7,4,3,Yes,5,67,5,100,72,8.0,Yes
+1147,Male,24,BSc CS,5.9,73.7,63.1,Yes,Yes,No,No,Yes,No,Yes,9,4,0,Yes,3,39,1,81,60,7.0,Yes
+1148,Female,21,BCA,7.41,60.3,73.1,Yes,No,Yes,No,Yes,Yes,No,4,9,6,Yes,0,160,2,100,87,9.2,Yes
+1149,Male,20,BCA Data Science,8.83,88.6,65.1,Yes,Yes,Yes,Yes,No,No,Yes,9,9,1,No,4,226,1,100,87,9.2,Yes
+1150,Female,21,BSc CS,8.74,82.4,74.6,No,No,Yes,Yes,No,Yes,Yes,8,8,4,No,6,13,5,100,84,9.0,Yes
+1151,Female,24,BCA,8.11,67.2,74.9,Yes,Yes,No,No,Yes,Yes,No,9,8,0,Yes,2,162,1,96,81,8.8,Yes
+1152,Female,23,BCA Data Science,7.07,86.0,89.0,Yes,Yes,Yes,Yes,No,Yes,Yes,4,10,3,No,5,256,3,86,81,8.8,Yes
+1153,Male,20,BCA Data Science,8.25,80.4,65.8,Yes,No,Yes,Yes,Yes,No,No,8,9,6,Yes,2,223,5,100,87,9.2,Yes
+1154,Female,20,BCA Data Science,5.87,76.5,77.2,Yes,No,Yes,Yes,Yes,Yes,Yes,5,7,2,No,1,190,1,66,60,7.0,Yes
+1155,Male,21,BSc CS,6.94,76.3,79.9,No,Yes,No,No,No,Yes,No,10,8,1,No,1,130,0,81,72,8.0,Yes
+1156,Female,22,BCA,7.69,61.7,92.8,Yes,Yes,No,No,No,Yes,Yes,10,4,4,No,1,164,1,99,71,7.9,Yes
+1157,Female,20,BCA,9.05,81.7,64.5,Yes,Yes,Yes,Yes,No,Yes,No,10,6,6,No,2,44,4,100,78,8.5,Yes
+1158,Male,22,BCA Data Science,6.36,81.4,71.5,Yes,No,No,No,Yes,Yes,Yes,4,7,0,Yes,4,177,5,76,66,7.5,Yes
+1159,Female,22,BCA,8.76,74.3,88.0,No,Yes,Yes,Yes,No,No,Yes,5,9,2,Yes,0,118,4,98,85,9.1,Yes
+1160,Female,22,BCA,9.69,63.2,63.6,Yes,No,Yes,Yes,No,Yes,Yes,6,6,6,No,6,201,5,100,78,8.5,Yes
+1161,Female,23,BCA,6.67,62.8,67.7,Yes,Yes,Yes,Yes,No,No,No,7,4,4,No,6,106,3,95,69,7.8,Yes
+1162,Male,20,BCA,9.17,63.4,90.7,No,Yes,Yes,No,Yes,Yes,Yes,6,7,4,Yes,5,153,2,100,81,8.8,Yes
+1163,Male,24,BSc CS,9.17,81.1,80.9,Yes,No,Yes,Yes,Yes,Yes,Yes,10,10,1,Yes,1,205,2,100,90,9.5,Yes
+1164,Female,23,BCA Data Science,6.61,90.9,60.8,Yes,Yes,No,Yes,Yes,No,Yes,4,7,0,Yes,4,221,5,78,67,7.6,Yes
+1165,Male,22,BCA,7.15,76.2,73.4,Yes,No,No,No,Yes,Yes,Yes,9,6,3,No,4,245,0,95,75,8.2,Yes
+1166,Female,24,BCA Data Science,6.09,67.6,93.6,Yes,Yes,No,No,No,No,No,8,8,2,No,2,92,0,76,69,7.8,Yes
+1167,Female,22,BCA Data Science,5.63,90.8,70.7,No,No,Yes,Yes,Yes,Yes,Yes,6,8,6,Yes,6,112,4,100,84,9.0,Yes
+1168,Male,20,BSc CS,6.26,82.5,90.6,No,Yes,No,Yes,Yes,No,No,5,7,0,Yes,0,119,4,70,63,7.2,No
+1169,Male,22,BSc CS,7.56,72.6,83.3,Yes,No,Yes,No,Yes,Yes,Yes,8,9,1,Yes,6,269,2,100,87,9.2,Yes
+1170,Female,22,BCA Data Science,9.55,75.0,63.8,No,No,Yes,Yes,No,No,No,5,9,4,No,1,89,3,100,87,9.2,Yes
+1171,Male,20,BSc CS,6.26,60.1,86.7,No,Yes,Yes,No,Yes,Yes,No,5,6,5,Yes,1,177,2,92,73,8.1,Yes
+1172,Female,21,BCA,8.38,87.7,72.8,Yes,No,Yes,Yes,Yes,No,No,10,4,5,Yes,0,197,3,100,72,8.0,Yes
+1173,Male,23,BCA Data Science,7.62,74.4,80.7,Yes,No,Yes,Yes,No,Yes,Yes,6,4,2,No,0,37,2,80,60,7.0,Yes
+1174,Female,22,BCA,8.65,80.8,94.1,Yes,No,No,Yes,No,Yes,No,5,4,0,No,1,97,3,81,60,7.0,Yes
+1175,Male,21,BSc CS,6.52,61.9,81.7,No,Yes,Yes,No,Yes,No,Yes,6,10,5,No,1,49,0,86,81,8.8,Yes
+1176,Female,23,BCA,6.75,63.1,92.1,No,No,No,No,No,Yes,No,5,6,3,No,1,228,0,78,64,7.3,No
+1177,Male,23,BCA,6.63,91.8,81.4,Yes,Yes,Yes,No,No,Yes,Yes,10,7,6,No,4,243,4,100,81,8.8,Yes
+1178,Male,24,BCA,5.84,94.3,87.1,Yes,Yes,No,Yes,Yes,Yes,Yes,5,4,3,Yes,5,222,1,88,64,7.3,Yes
+1179,Male,24,BSc CS,6.87,87.6,90.7,Yes,No,No,No,No,No,Yes,10,9,4,No,0,212,1,90,81,8.8,Yes
+1180,Female,21,BSc CS,8.01,96.7,63.8,Yes,Yes,No,No,No,No,No,9,7,4,No,0,88,2,98,79,8.6,Yes
+1181,Male,21,BCA Data Science,8.12,86.4,61.5,No,Yes,Yes,No,No,No,Yes,6,10,6,No,2,143,3,100,90,9.5,Yes
+1182,Male,24,BCA Data Science,6.79,88.3,89.4,No,No,No,Yes,Yes,No,Yes,10,7,5,No,6,264,2,100,81,8.8,Yes
+1183,Female,20,BSc CS,5.78,87.0,75.3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,4,2,Yes,2,188,3,82,61,7.1,Yes
+1184,Male,21,BSc CS,5.63,74.2,82.6,Yes,No,No,No,Yes,No,Yes,6,4,3,Yes,1,292,1,81,60,7.0,Yes
+1185,Female,22,BCA Data Science,6.39,84.8,79.5,Yes,No,Yes,Yes,Yes,Yes,No,8,10,2,No,3,192,2,81,78,8.5,Yes
+1186,Female,22,BCA Data Science,7.51,85.7,91.3,No,Yes,Yes,No,No,No,Yes,7,4,2,No,5,166,2,92,67,7.6,Yes
+1187,Female,21,BSc CS,6.14,89.1,94.2,No,No,Yes,Yes,No,No,No,7,7,3,Yes,4,292,1,93,76,8.3,Yes
+1188,Male,21,BCA,7.8,89.8,94.4,No,No,Yes,Yes,No,Yes,No,5,9,2,Yes,5,171,5,100,87,9.2,Yes
+1189,Male,23,BSc CS,6.46,93.1,76.0,No,No,No,No,No,Yes,No,4,10,5,Yes,3,99,4,95,87,9.2,Yes
+1190,Male,22,BSc CS,6.78,62.1,92.5,Yes,Yes,No,No,No,Yes,No,10,9,1,Yes,3,170,5,94,83,8.9,Yes
+1191,Male,22,BCA Data Science,5.75,77.2,68.0,Yes,Yes,No,Yes,Yes,No,No,7,7,3,No,0,19,4,72,64,7.3,No
+1192,Female,22,BCA,9.34,88.8,80.2,Yes,Yes,Yes,Yes,No,No,Yes,4,7,4,No,1,33,0,100,81,8.8,Yes
+1193,Male,20,BCA,8.63,82.7,72.8,Yes,No,No,No,Yes,Yes,No,4,5,1,Yes,1,11,4,93,70,7.8,Yes
+1194,Male,21,BSc CS,8.56,90.1,74.3,No,Yes,Yes,Yes,Yes,Yes,Yes,7,7,3,Yes,4,129,3,100,81,8.8,Yes
+1195,Male,22,BSc CS,8.45,60.4,76.0,Yes,No,Yes,No,Yes,Yes,No,4,10,0,No,1,102,2,77,76,8.3,Yes
+1196,Male,20,BCA,7.26,66.1,80.8,Yes,No,No,Yes,Yes,Yes,Yes,4,10,4,No,1,46,4,84,80,8.7,Yes
+1197,Male,20,BCA Data Science,8.27,77.4,97.1,No,No,Yes,Yes,Yes,Yes,No,6,10,5,No,3,59,0,100,90,9.5,Yes
+1198,Female,23,BSc CS,8.35,66.5,73.6,No,No,Yes,No,No,Yes,Yes,7,7,3,No,6,197,5,100,81,8.8,Yes
+1199,Male,23,BCA,9.31,66.3,65.0,Yes,Yes,Yes,No,No,No,Yes,8,7,6,No,4,14,5,100,81,8.8,Yes
+1200,Male,20,BSc CS,5.99,75.6,61.7,No,No,Yes,Yes,No,Yes,No,9,9,1,No,2,197,1,73,70,7.8,Yes
+1201,Male,20,BCA,9.52,79.2,77.8,No,Yes,Yes,No,No,Yes,No,6,4,4,Yes,4,193,3,100,72,8.0,Yes
+1202,Female,24,BSc CS,7.41,81.8,63.3,No,No,No,Yes,No,Yes,Yes,7,7,0,Yes,6,46,4,95,78,8.5,Yes
+1203,Female,22,BSc CS,6.39,85.5,96.1,No,Yes,Yes,No,No,No,No,9,7,0,Yes,6,113,0,91,75,8.2,Yes
+1204,Female,21,BSc CS,9.65,71.1,79.8,Yes,Yes,Yes,No,Yes,No,Yes,6,8,1,Yes,0,201,1,100,84,9.0,Yes
+1205,Male,21,BCA Data Science,6.95,88.8,61.8,Yes,No,No,Yes,No,Yes,Yes,8,7,6,No,4,90,5,100,81,8.8,Yes
+1206,Female,24,BSc CS,7.17,82.8,93.5,No,No,Yes,No,No,No,No,7,10,1,Yes,3,262,2,91,84,9.0,Yes
+1207,Female,20,BSc CS,6.43,68.0,87.1,No,Yes,Yes,No,Yes,No,No,8,8,5,No,5,273,2,97,82,8.8,Yes
+1208,Female,23,BCA Data Science,5.96,74.5,62.0,Yes,Yes,No,Yes,No,No,Yes,10,4,5,No,1,277,0,89,65,7.4,Yes
+1209,Female,21,BSc CS,8.15,85.7,81.4,Yes,No,Yes,No,Yes,No,No,7,10,5,No,4,27,0,100,90,9.5,Yes
+1210,Female,20,BCA,9.24,92.7,76.8,Yes,No,Yes,Yes,No,No,Yes,9,4,1,Yes,5,263,0,100,72,8.0,Yes
+1211,Female,20,BSc CS,6.7,70.0,66.1,No,Yes,No,No,Yes,Yes,Yes,6,8,0,No,3,293,4,71,66,7.5,No
+1212,Female,24,BSc CS,6.87,68.4,67.0,Yes,Yes,No,No,Yes,No,Yes,5,9,2,No,2,150,1,76,72,8.0,Yes
+1213,Female,23,BCA Data Science,5.54,85.4,76.9,Yes,Yes,No,No,Yes,No,No,8,9,2,Yes,4,191,4,86,78,8.5,Yes
+1214,Female,20,BSc CS,6.77,84.8,72.2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,9,3,Yes,1,275,5,98,85,9.1,Yes
+1215,Female,23,BCA,8.45,60.9,87.2,Yes,Yes,Yes,Yes,Yes,No,Yes,8,10,1,No,3,198,3,93,85,9.1,Yes
+1216,Male,23,BCA Data Science,5.57,85.6,80.3,Yes,Yes,Yes,No,Yes,No,No,8,4,2,No,3,202,5,74,56,6.7,No
+1217,Female,21,BSc CS,7.79,65.2,74.9,No,Yes,No,No,Yes,Yes,Yes,4,4,4,No,4,280,0,94,68,7.7,Yes
+1218,Male,22,BSc CS,8.69,87.6,68.0,Yes,Yes,Yes,Yes,No,Yes,Yes,5,9,6,Yes,6,281,3,100,87,9.2,Yes
+1219,Female,24,BCA Data Science,5.79,63.7,87.6,No,No,No,Yes,Yes,Yes,No,8,4,1,No,3,230,2,72,55,6.6,No
+1220,Female,23,BCA,7.93,73.9,72.0,No,Yes,Yes,No,Yes,Yes,No,6,10,2,Yes,5,169,3,100,90,9.5,Yes
+1221,Female,24,BCA Data Science,8.83,78.5,64.1,Yes,No,Yes,Yes,No,Yes,Yes,4,10,4,Yes,6,297,4,100,90,9.5,Yes
+1222,Male,21,BSc CS,9.4,81.0,80.7,No,Yes,No,No,Yes,No,Yes,7,8,4,Yes,3,186,4,100,84,9.0,Yes
+1223,Male,21,BSc CS,8.44,88.8,65.3,Yes,Yes,Yes,No,No,Yes,Yes,10,7,1,Yes,2,189,1,100,81,8.8,Yes
+1224,Male,24,BCA,9.4,73.7,77.8,No,Yes,Yes,No,Yes,No,No,8,8,4,Yes,3,193,2,100,84,9.0,Yes
+1225,Male,22,BSc CS,7.12,94.5,79.6,No,No,No,No,Yes,Yes,No,5,5,0,No,1,76,1,68,55,6.6,No
+1226,Male,21,BSc CS,8.58,64.5,68.8,No,Yes,No,No,No,Yes,Yes,9,10,3,Yes,1,22,1,100,90,9.5,Yes
+1227,Male,23,BSc CS,7.7,93.9,65.6,Yes,No,Yes,No,Yes,No,Yes,5,7,4,No,6,246,1,99,80,8.7,Yes
+1228,Female,21,BSc CS,6.11,82.1,89.2,No,Yes,No,No,Yes,Yes,No,7,5,0,Yes,1,267,4,74,59,6.9,No
+1229,Male,23,BCA,5.91,78.1,83.4,Yes,Yes,Yes,No,Yes,Yes,No,8,7,2,Yes,5,271,3,91,75,8.2,Yes
+1230,Male,24,BSc CS,7.01,90.6,94.5,Yes,No,Yes,No,No,Yes,Yes,6,8,4,No,2,96,0,88,76,8.3,Yes
+1231,Female,23,BCA Data Science,6.01,60.3,84.9,No,No,No,Yes,Yes,No,No,6,10,4,No,4,187,4,84,80,8.7,Yes
+1232,Male,20,BCA Data Science,7.28,89.8,78.3,No,No,No,No,No,No,Yes,10,10,5,Yes,5,117,3,100,90,9.5,Yes
+1233,Male,24,BCA Data Science,7.69,89.9,90.4,Yes,Yes,No,Yes,Yes,Yes,No,8,7,0,Yes,2,113,2,91,75,8.2,Yes
+1234,Male,24,BCA Data Science,8.62,95.4,75.2,No,Yes,Yes,No,No,Yes,Yes,10,9,6,No,1,17,4,100,87,9.2,Yes
+1235,Female,24,BSc CS,8.4,73.7,84.9,Yes,Yes,No,No,No,No,No,8,5,4,Yes,5,35,0,100,75,8.2,Yes
+1236,Male,24,BCA,7.0,96.6,70.5,Yes,No,No,Yes,No,Yes,No,8,4,4,Yes,4,150,2,100,72,8.0,Yes
+1237,Female,21,BSc CS,9.27,90.9,81.8,No,No,No,Yes,No,No,No,8,10,0,No,0,132,0,90,84,9.0,Yes
+1238,Female,22,BCA,8.52,90.4,75.7,No,Yes,No,Yes,No,Yes,No,9,9,6,No,0,283,1,100,87,9.2,Yes
+1239,Male,20,BCA Data Science,6.44,81.8,66.9,Yes,No,Yes,Yes,Yes,No,Yes,5,5,6,Yes,6,182,1,100,75,8.2,Yes
+1240,Male,20,BSc CS,8.41,85.2,83.3,Yes,No,No,No,No,No,No,5,10,4,No,3,113,4,99,89,9.4,Yes
+1241,Female,22,BSc CS,8.94,78.2,80.5,No,No,Yes,No,Yes,No,No,9,4,0,Yes,3,297,0,100,72,8.0,Yes
+1242,Female,21,BSc CS,9.21,67.1,70.0,No,No,No,No,Yes,No,No,5,7,5,No,2,205,2,100,81,8.8,Yes
+1243,Female,23,BCA Data Science,6.06,81.9,68.7,Yes,No,Yes,No,No,Yes,Yes,10,9,1,No,6,4,1,84,77,8.4,Yes
+1244,Male,23,BSc CS,9.78,92.3,79.6,No,No,No,No,Yes,No,Yes,9,5,0,Yes,6,130,3,100,75,8.2,Yes
+1245,Female,24,BCA,6.94,73.7,81.3,No,No,Yes,No,Yes,No,Yes,8,8,5,Yes,6,145,2,100,84,9.0,Yes
+1246,Female,22,BSc CS,8.83,77.0,63.0,No,No,Yes,Yes,No,No,No,10,4,0,Yes,2,116,2,100,72,8.0,Yes
+1247,Male,23,BCA Data Science,6.65,84.5,70.3,No,No,No,No,Yes,Yes,Yes,5,9,1,No,5,40,1,77,73,8.1,Yes
+1248,Female,23,BSc CS,5.91,95.6,78.0,Yes,Yes,No,Yes,Yes,No,Yes,4,9,3,No,1,126,5,69,68,7.7,Yes
+1249,Female,24,BSc CS,6.04,80.0,66.5,Yes,No,No,No,No,No,No,5,9,4,Yes,4,233,5,92,82,8.8,Yes
+1250,Female,23,BSc CS,8.25,71.8,73.2,Yes,Yes,No,No,No,No,No,5,6,0,Yes,4,69,2,94,74,8.2,Yes
+1251,Male,21,BSc CS,5.54,95.0,96.0,No,No,Yes,No,No,Yes,Yes,8,6,1,No,4,223,3,72,61,7.1,No
+1252,Male,23,BSc CS,8.67,74.8,74.4,No,Yes,No,Yes,No,No,No,7,5,6,Yes,1,69,2,100,75,8.2,Yes
+1253,Male,21,BCA Data Science,7.45,86.6,78.7,No,Yes,Yes,Yes,Yes,Yes,Yes,6,6,1,No,5,4,1,85,69,7.8,Yes
+1254,Male,21,BCA,7.62,73.0,71.8,No,No,No,Yes,No,Yes,Yes,4,6,6,No,0,278,3,92,73,8.1,Yes
+1255,Female,22,BCA Data Science,9.01,91.5,64.6,Yes,No,No,Yes,Yes,Yes,No,9,10,0,Yes,3,199,5,100,90,9.5,Yes
+1256,Male,21,BCA,8.21,61.6,95.6,Yes,No,No,No,Yes,No,Yes,10,9,1,Yes,1,222,2,100,87,9.2,Yes
+1257,Female,21,BSc CS,8.01,75.0,69.2,Yes,No,Yes,No,Yes,Yes,Yes,7,4,5,No,6,30,0,100,72,8.0,Yes
+1258,Female,24,BSc CS,7.81,64.1,78.5,No,No,No,Yes,Yes,No,No,9,5,2,Yes,3,224,4,100,75,8.2,Yes
+1259,Female,21,BCA Data Science,7.61,81.5,80.7,No,No,No,Yes,Yes,Yes,No,6,10,2,No,3,0,5,86,81,8.8,Yes
+1260,Male,20,BCA Data Science,8.16,73.8,83.6,No,Yes,No,Yes,No,Yes,No,6,7,5,No,0,49,4,97,79,8.6,Yes
+1261,Female,20,BCA,6.27,61.2,64.1,Yes,Yes,Yes,No,No,No,Yes,6,5,4,Yes,0,106,5,88,67,7.6,Yes
+1262,Female,21,BCA Data Science,8.94,62.3,81.2,No,No,Yes,No,Yes,Yes,No,4,5,4,Yes,0,118,4,100,75,8.2,Yes
+1263,Male,24,BSc CS,7.76,69.5,83.8,Yes,No,Yes,No,No,No,Yes,5,10,1,No,4,172,5,84,80,8.7,Yes
+1264,Female,20,BSc CS,7.4,73.4,72.0,No,No,No,No,No,Yes,Yes,7,10,4,No,2,231,3,93,85,9.1,Yes
+1265,Male,20,BCA Data Science,5.65,70.8,60.6,Yes,No,Yes,No,Yes,Yes,No,4,10,6,No,4,261,4,85,81,8.8,Yes
+1266,Female,24,BCA Data Science,7.48,65.9,70.1,Yes,Yes,No,No,Yes,No,Yes,9,4,5,No,6,247,1,100,72,8.0,Yes
+1267,Female,20,BCA,8.06,71.4,87.8,No,Yes,Yes,No,No,No,No,10,4,6,Yes,5,5,5,100,72,8.0,Yes
+1268,Male,23,BSc CS,7.75,72.1,81.5,No,Yes,Yes,Yes,No,No,Yes,5,7,2,No,1,67,2,82,70,7.8,Yes
+1269,Male,20,BCA,8.7,80.8,70.0,No,No,Yes,Yes,No,Yes,No,7,9,4,Yes,4,268,1,100,87,9.2,Yes
+1270,Female,24,BCA,8.84,72.3,95.1,Yes,Yes,No,No,No,No,Yes,6,6,4,Yes,6,156,1,100,78,8.5,Yes
+1271,Male,22,BCA,8.18,76.7,95.1,Yes,Yes,No,Yes,Yes,Yes,Yes,5,8,1,No,0,175,5,79,71,7.9,Yes
+1272,Female,21,BSc CS,7.53,72.6,88.1,Yes,Yes,No,No,Yes,Yes,No,8,9,4,Yes,2,87,0,100,87,9.2,Yes
+1273,Male,22,BCA,8.16,62.0,84.9,Yes,Yes,No,No,No,Yes,Yes,6,10,5,No,1,194,4,99,89,9.4,Yes
+1274,Female,21,BSc CS,9.23,80.2,67.1,No,Yes,Yes,Yes,No,No,No,7,9,1,Yes,2,180,2,100,87,9.2,Yes
+1275,Male,24,BCA Data Science,6.69,62.4,69.8,No,Yes,No,Yes,Yes,No,No,9,5,0,No,4,116,3,79,62,7.2,No
+1276,Male,22,BCA Data Science,7.33,71.9,83.0,No,Yes,Yes,Yes,Yes,Yes,No,9,9,4,Yes,3,74,5,100,87,9.2,Yes
+1277,Male,21,BCA Data Science,7.9,96.0,64.5,No,Yes,Yes,No,No,No,No,7,9,6,No,1,96,0,100,87,9.2,Yes
+1278,Female,23,BCA,8.78,83.3,70.1,Yes,Yes,Yes,Yes,No,Yes,No,5,8,6,No,5,191,1,100,84,9.0,Yes
+1279,Male,23,BCA,6.09,67.3,61.2,Yes,No,No,Yes,Yes,Yes,Yes,5,7,6,No,5,166,3,92,76,8.3,Yes
+1280,Female,24,BSc CS,8.84,83.1,91.3,No,No,Yes,Yes,No,No,Yes,5,8,4,No,5,20,4,100,84,9.0,Yes
+1281,Male,21,BSc CS,9.64,67.2,76.7,No,No,No,Yes,No,No,Yes,9,8,1,No,6,231,0,100,84,9.0,Yes
+1282,Male,20,BCA Data Science,9.53,86.5,65.1,No,No,No,Yes,Yes,No,Yes,7,4,2,No,5,83,5,100,72,8.0,Yes
+1283,Male,23,BCA,8.54,84.1,63.2,No,Yes,No,No,Yes,Yes,No,8,10,5,Yes,1,74,1,100,90,9.5,Yes
+1284,Female,21,BCA Data Science,6.83,89.2,77.0,Yes,Yes,Yes,Yes,Yes,No,Yes,7,7,6,No,4,2,4,100,81,8.8,Yes
+1285,Female,22,BCA Data Science,8.03,78.1,75.6,Yes,Yes,Yes,No,Yes,Yes,Yes,5,4,5,No,0,74,0,94,68,7.7,Yes
+1286,Male,22,BCA,5.71,75.8,66.8,No,Yes,No,No,Yes,Yes,No,6,6,3,Yes,6,218,4,91,72,8.0,Yes
+1287,Female,21,BSc CS,6.08,86.4,70.4,No,Yes,Yes,Yes,Yes,Yes,No,9,9,4,No,3,162,2,88,79,8.6,Yes
+1288,Female,23,BCA Data Science,7.92,79.7,84.0,No,Yes,Yes,No,Yes,Yes,Yes,4,7,5,Yes,5,106,4,100,81,8.8,Yes
+1289,Female,24,BSc CS,6.94,81.3,84.2,Yes,Yes,No,No,Yes,No,No,8,8,2,Yes,0,170,2,89,77,8.4,Yes
+1290,Male,24,BCA,9.63,91.6,67.4,No,No,No,Yes,Yes,No,Yes,9,7,6,No,3,211,5,100,81,8.8,Yes
+1291,Female,21,BSc CS,7.93,85.8,81.1,Yes,Yes,No,No,Yes,Yes,No,10,4,2,No,5,273,1,100,72,8.0,Yes
+1292,Male,20,BCA,6.0,89.7,71.7,No,Yes,No,No,Yes,No,Yes,6,7,6,No,1,268,2,86,72,8.0,Yes
+1293,Male,24,BSc CS,8.88,89.6,94.7,No,Yes,No,Yes,Yes,No,No,9,10,4,No,6,167,1,100,90,9.5,Yes
+1294,Male,22,BCA Data Science,9.77,67.8,61.4,No,Yes,Yes,No,Yes,Yes,No,7,4,0,No,0,295,2,92,67,7.6,Yes
+1295,Female,22,BCA Data Science,6.33,70.5,72.1,No,Yes,No,Yes,Yes,No,Yes,4,8,4,Yes,1,277,2,86,75,8.2,Yes
+1296,Male,23,BCA,9.56,90.6,81.8,Yes,Yes,No,No,No,Yes,Yes,4,7,5,Yes,0,196,0,100,81,8.8,Yes
+1297,Female,23,BCA Data Science,6.27,82.7,82.5,No,No,No,No,Yes,Yes,No,8,5,0,No,0,233,2,66,54,6.5,No
+1298,Female,21,BCA,9.57,65.5,94.0,No,No,No,Yes,No,No,No,7,4,0,No,0,179,3,90,66,7.5,Yes
+1299,Male,23,BCA,8.8,83.0,64.8,Yes,No,Yes,No,Yes,No,No,7,8,3,Yes,4,124,4,100,84,9.0,Yes
+1300,Female,21,BCA,5.78,67.9,86.4,No,No,No,Yes,Yes,Yes,No,4,8,4,No,2,284,0,74,68,7.7,No
+1301,Male,23,BSc CS,9.61,62.6,64.1,No,No,No,Yes,Yes,Yes,Yes,8,10,5,Yes,6,75,5,100,90,9.5,Yes
+1302,Male,22,BSc CS,6.75,83.4,77.0,Yes,No,No,No,No,No,Yes,8,4,4,No,6,65,2,98,70,7.8,Yes
+1303,Male,21,BCA,9.66,60.0,81.3,No,Yes,No,Yes,Yes,No,No,9,6,5,No,3,195,3,100,78,8.5,Yes
+1304,Female,21,BCA Data Science,6.1,81.1,92.0,No,No,Yes,No,Yes,Yes,Yes,4,9,0,Yes,5,249,5,76,72,8.0,Yes
+1305,Male,24,BCA,6.09,90.6,92.7,No,Yes,No,No,No,No,No,5,5,3,Yes,4,255,5,88,67,7.6,Yes
+1306,Male,21,BCA,7.27,80.8,73.9,Yes,No,No,Yes,No,Yes,Yes,9,9,4,No,3,264,0,98,85,9.1,Yes
+1307,Male,20,BSc CS,8.21,85.2,85.4,No,Yes,No,Yes,No,No,No,8,9,2,No,2,150,2,93,82,8.8,Yes
+1308,Female,21,BSc CS,9.47,88.5,87.6,No,Yes,No,Yes,Yes,No,Yes,6,7,0,Yes,4,39,2,100,81,8.8,Yes
+1309,Female,20,BCA Data Science,6.71,92.6,60.5,Yes,Yes,Yes,No,No,Yes,No,10,9,1,No,1,270,0,79,74,8.2,Yes
+1310,Female,23,BCA,8.06,91.2,91.8,No,No,Yes,No,Yes,Yes,No,4,9,2,Yes,0,85,3,90,81,8.8,Yes
+1311,Male,20,BSc CS,7.55,96.0,95.1,Yes,No,No,No,No,Yes,No,4,6,6,No,3,161,4,98,76,8.3,Yes
+1312,Female,21,BCA,8.24,96.3,76.4,No,No,No,No,Yes,No,No,7,10,5,Yes,5,99,4,100,90,9.5,Yes
+1313,Male,20,BSc CS,7.85,85.6,91.6,Yes,No,Yes,Yes,No,No,Yes,9,6,2,Yes,0,12,4,98,76,8.3,Yes
+1314,Female,22,BCA,8.32,91.7,96.1,Yes,Yes,Yes,Yes,No,Yes,Yes,9,5,2,No,3,38,5,98,73,8.1,Yes
+1315,Female,21,BSc CS,8.48,85.4,89.3,No,Yes,Yes,No,Yes,No,No,6,4,2,No,1,225,0,89,65,7.4,Yes
+1316,Female,21,BSc CS,7.19,84.5,64.1,No,Yes,Yes,No,No,Yes,Yes,4,4,4,No,6,228,0,93,67,7.6,Yes
+1317,Female,23,BCA Data Science,8.25,95.4,85.3,No,Yes,No,No,Yes,No,No,7,7,6,Yes,4,115,0,100,81,8.8,Yes
+1318,Male,23,BSc CS,7.94,95.5,73.6,No,No,Yes,Yes,No,No,Yes,10,7,6,No,5,103,1,100,81,8.8,Yes
+1319,Female,23,BSc CS,6.32,86.4,94.1,No,No,Yes,No,Yes,Yes,Yes,5,4,5,Yes,3,199,0,96,69,7.8,Yes
+1320,Male,20,BCA Data Science,9.65,90.8,96.7,Yes,Yes,No,Yes,No,Yes,No,4,5,6,No,5,274,1,100,75,8.2,Yes
+1321,Male,20,BCA Data Science,8.66,78.6,60.7,Yes,Yes,Yes,Yes,Yes,Yes,No,10,10,0,No,4,87,4,97,88,9.3,Yes
+1322,Male,22,BCA Data Science,7.64,90.4,68.4,Yes,No,No,No,No,Yes,Yes,6,10,6,Yes,6,23,4,100,90,9.5,Yes
+1323,Female,20,BCA Data Science,6.02,65.4,75.8,No,Yes,No,Yes,Yes,Yes,Yes,10,10,5,No,6,80,0,100,90,9.5,Yes
+1324,Male,23,BSc CS,5.53,95.2,86.9,No,No,No,Yes,Yes,Yes,No,8,7,3,Yes,1,19,4,84,71,7.9,Yes
+1325,Male,21,BCA Data Science,9.59,83.8,89.7,No,No,Yes,Yes,Yes,Yes,Yes,8,6,6,Yes,3,106,2,100,78,8.5,Yes
+1326,Male,20,BSc CS,8.93,86.0,96.8,No,No,Yes,Yes,Yes,Yes,No,6,5,3,No,2,232,0,99,74,8.2,Yes
+1327,Male,20,BCA Data Science,6.26,89.8,78.4,Yes,Yes,Yes,No,No,No,Yes,9,9,2,Yes,6,56,2,98,85,9.1,Yes
+1328,Female,21,BSc CS,8.67,93.1,74.3,Yes,Yes,No,No,Yes,No,Yes,5,8,3,Yes,3,191,1,100,84,9.0,Yes
+1329,Male,24,BCA Data Science,7.04,70.2,72.8,Yes,Yes,No,Yes,Yes,No,No,7,5,6,No,1,151,4,96,72,8.0,Yes
+1330,Male,24,BCA Data Science,7.99,81.0,68.7,No,No,Yes,No,No,No,Yes,9,7,5,Yes,1,167,3,100,81,8.8,Yes
+1331,Male,24,BCA Data Science,9.43,94.1,75.9,Yes,Yes,No,Yes,No,No,No,10,10,5,Yes,3,253,1,100,90,9.5,Yes
+1332,Female,21,BCA,8.48,75.5,68.3,No,No,Yes,Yes,Yes,No,No,5,9,3,Yes,3,237,1,100,87,9.2,Yes
+1333,Female,20,BSc CS,8.2,86.7,60.1,Yes,No,No,Yes,No,No,No,9,8,4,Yes,6,41,4,100,84,9.0,Yes
+1334,Female,21,BSc CS,9.56,85.6,93.7,Yes,No,No,No,Yes,No,No,5,9,4,Yes,4,104,1,100,87,9.2,Yes
+1335,Male,23,BSc CS,5.99,78.2,95.7,Yes,Yes,No,No,No,No,No,4,4,2,No,3,248,4,69,53,6.4,No
+1336,Male,21,BCA,7.79,91.4,94.2,No,No,Yes,Yes,No,Yes,Yes,7,5,2,Yes,0,84,2,94,71,7.9,Yes
+1337,Male,21,BSc CS,6.15,67.8,96.2,Yes,No,No,Yes,No,No,No,7,9,5,Yes,2,96,0,97,85,9.1,Yes
+1338,Male,21,BCA,8.27,75.6,73.0,No,No,No,No,No,Yes,No,5,10,2,Yes,3,190,2,100,90,9.5,Yes
+1339,Male,21,BSc CS,6.72,96.3,83.5,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,2,Yes,3,133,2,85,63,7.2,Yes
+1340,Male,24,BSc CS,8.54,85.3,97.2,Yes,No,No,Yes,No,Yes,Yes,7,7,6,Yes,3,163,1,100,81,8.8,Yes
+1341,Male,23,BCA,6.92,86.8,78.0,No,Yes,No,No,Yes,No,Yes,5,9,4,Yes,2,12,3,95,84,9.0,Yes
+1342,Female,23,BCA Data Science,5.9,62.1,84.4,Yes,No,Yes,Yes,Yes,No,Yes,8,7,1,No,2,261,0,71,63,7.2,Yes
+1343,Male,23,BSc CS,8.58,76.3,74.7,Yes,No,No,No,No,No,Yes,5,9,3,No,6,226,2,100,87,9.2,Yes
+1344,Female,23,BCA Data Science,9.35,65.3,82.3,Yes,Yes,Yes,No,No,No,Yes,8,10,3,Yes,0,209,5,100,90,9.5,Yes
+1345,Female,21,BCA Data Science,7.89,87.0,88.7,Yes,Yes,Yes,No,No,No,Yes,10,10,2,No,3,286,5,97,88,9.3,Yes
+1346,Female,24,BCA,8.9,65.9,71.4,No,Yes,No,No,Yes,No,Yes,4,4,6,No,3,34,4,100,72,8.0,Yes
+1347,Female,22,BCA,7.93,93.0,83.9,No,Yes,No,Yes,No,Yes,Yes,5,6,3,Yes,2,83,0,99,77,8.4,Yes
+1348,Female,21,BCA Data Science,8.24,96.3,61.9,No,Yes,Yes,Yes,Yes,Yes,No,10,6,6,No,2,185,0,100,78,8.5,Yes
+1349,Male,21,BCA Data Science,6.09,70.7,89.6,No,No,Yes,Yes,Yes,Yes,Yes,10,5,6,Yes,3,235,0,100,75,8.2,Yes
+1350,Male,21,BCA Data Science,7.56,71.8,73.8,No,No,Yes,No,Yes,Yes,Yes,5,10,5,Yes,5,116,2,100,90,9.5,Yes
+1351,Male,20,BCA,9.72,76.1,89.0,Yes,Yes,Yes,No,No,Yes,Yes,4,4,6,Yes,3,60,2,100,72,8.0,Yes
+1352,Male,24,BSc CS,8.37,88.7,89.7,Yes,Yes,Yes,No,Yes,Yes,Yes,10,9,2,No,2,82,4,98,85,9.1,Yes
+1353,Male,21,BCA,5.79,91.1,89.0,Yes,Yes,No,Yes,Yes,Yes,Yes,8,10,5,No,2,94,3,86,81,8.8,Yes
+1354,Female,23,BCA Data Science,9.72,76.1,79.5,No,Yes,No,Yes,No,Yes,Yes,7,10,2,No,4,20,0,100,90,9.5,Yes
+1355,Female,20,BCA,7.15,77.4,88.0,No,Yes,No,No,No,Yes,Yes,10,10,3,No,1,6,5,91,84,9.0,Yes
+1356,Female,22,BSc CS,7.38,85.0,63.2,Yes,No,No,Yes,Yes,Yes,No,5,6,1,No,0,119,3,73,61,7.1,Yes
+1357,Male,21,BCA Data Science,8.79,82.6,88.7,No,No,No,No,No,No,Yes,10,7,0,Yes,2,250,3,100,81,8.8,Yes
+1358,Female,23,BCA,5.93,62.0,62.6,Yes,Yes,No,No,Yes,No,Yes,10,4,5,No,6,238,1,99,71,7.9,Yes
+1359,Female,21,BCA,7.67,80.6,90.8,Yes,Yes,No,Yes,No,No,No,10,7,3,No,0,16,1,93,76,8.3,Yes
+1360,Female,20,BCA Data Science,7.35,71.9,74.8,Yes,No,No,No,Yes,Yes,No,6,7,4,No,4,180,2,94,77,8.4,Yes
+1361,Female,24,BCA Data Science,8.04,64.9,73.9,Yes,No,No,Yes,No,No,No,7,6,0,Yes,1,120,5,90,72,8.0,Yes
+1362,Male,22,BCA,9.41,62.5,71.6,No,Yes,Yes,No,Yes,No,No,8,8,3,No,0,240,4,100,84,9.0,Yes
+1363,Male,24,BCA Data Science,7.95,72.3,63.7,No,Yes,Yes,No,No,No,Yes,8,6,2,No,1,254,5,89,71,7.9,Yes
+1364,Male,22,BSc CS,6.74,61.8,97.9,No,Yes,Yes,Yes,No,No,Yes,8,10,4,No,3,107,2,91,84,9.0,Yes
+1365,Female,22,BSc CS,8.96,76.5,80.5,Yes,No,No,No,No,Yes,Yes,9,9,4,Yes,4,255,1,100,87,9.2,Yes
+1366,Female,20,BSc CS,7.79,83.3,89.2,No,Yes,Yes,No,No,Yes,Yes,5,9,5,No,6,222,3,100,87,9.2,Yes
+1367,Female,23,BSc CS,6.38,75.7,91.3,Yes,No,Yes,No,Yes,Yes,Yes,5,4,1,No,3,248,4,71,54,6.5,Yes
+1368,Female,22,BSc CS,9.39,67.7,70.4,Yes,No,No,Yes,Yes,No,Yes,4,10,0,No,4,152,0,91,84,9.0,Yes
+1369,Female,21,BCA,8.33,63.4,95.8,Yes,Yes,Yes,Yes,No,No,Yes,5,8,0,No,2,299,5,80,72,8.0,Yes
+1370,Male,22,BCA,6.44,64.1,68.1,No,No,No,No,Yes,No,No,9,4,2,No,3,126,2,83,61,7.1,No
+1371,Male,23,BCA,8.58,91.2,60.8,Yes,Yes,Yes,No,No,No,No,10,9,0,Yes,6,226,3,100,87,9.2,Yes
+1372,Female,20,BCA Data Science,6.79,95.6,88.8,No,Yes,Yes,No,No,No,Yes,6,10,0,No,3,211,2,72,73,8.1,Yes
+1373,Male,21,BCA Data Science,8.5,79.2,73.4,No,No,Yes,Yes,Yes,No,Yes,4,7,1,No,2,294,0,84,71,7.9,Yes
+1374,Male,23,BCA,7.72,96.8,91.6,Yes,No,No,No,No,Yes,No,5,9,4,No,6,144,1,99,86,9.2,Yes
+1375,Female,24,BCA,6.28,93.3,95.9,Yes,Yes,Yes,Yes,Yes,No,Yes,6,9,6,Yes,0,205,4,96,84,9.0,Yes
+1376,Male,23,BCA Data Science,6.14,96.4,66.5,Yes,Yes,No,No,No,Yes,Yes,9,5,1,No,2,253,3,75,60,7.0,Yes
+1377,Female,20,BCA Data Science,8.08,97.8,70.8,Yes,No,Yes,No,Yes,Yes,No,6,5,4,No,1,189,4,94,71,7.9,Yes
+1378,Male,20,BCA,7.52,93.1,97.0,No,Yes,No,No,No,Yes,Yes,8,4,0,No,1,241,2,78,58,6.8,Yes
+1379,Male,22,BCA Data Science,7.67,74.5,97.1,No,Yes,Yes,Yes,No,Yes,No,6,7,1,Yes,2,271,3,91,75,8.2,Yes
+1380,Female,20,BCA Data Science,6.85,97.2,79.0,No,No,No,No,No,No,No,7,5,2,No,6,77,4,88,67,7.6,Yes
+1381,Male,20,BCA,6.14,68.7,61.4,No,Yes,No,No,Yes,No,Yes,7,6,5,No,3,252,0,89,71,7.9,Yes
+1382,Male,23,BCA,5.9,93.0,66.9,Yes,No,Yes,Yes,Yes,No,Yes,5,10,3,Yes,2,13,2,83,79,8.6,Yes
+1383,Male,21,BCA Data Science,8.04,96.1,91.8,Yes,Yes,Yes,No,No,No,No,8,9,0,No,0,231,2,80,75,8.2,Yes
+1384,Female,23,BCA,8.95,70.8,90.3,Yes,No,Yes,No,No,Yes,Yes,10,10,3,Yes,0,106,1,100,90,9.5,Yes
+1385,Female,22,BSc CS,8.28,96.3,65.9,No,No,No,No,Yes,No,Yes,10,6,4,Yes,3,228,3,100,78,8.5,Yes
+1386,Male,22,BCA,8.08,63.4,76.1,No,Yes,No,No,Yes,Yes,No,7,9,1,Yes,3,269,5,98,85,9.1,Yes
+1387,Male,23,BSc CS,7.38,94.5,78.1,Yes,Yes,No,Yes,No,No,Yes,8,4,0,Yes,4,217,3,93,67,7.6,Yes
+1388,Female,23,BSc CS,8.6,90.9,73.5,Yes,Yes,Yes,No,Yes,Yes,No,4,4,3,No,2,300,5,92,67,7.6,Yes
+1389,Female,23,BSc CS,8.97,73.0,94.9,Yes,Yes,Yes,Yes,No,Yes,No,8,4,0,No,0,6,1,87,64,7.3,Yes
+1390,Male,20,BCA Data Science,7.24,85.0,88.3,No,No,No,No,No,Yes,Yes,5,4,1,Yes,6,8,5,93,67,7.6,Yes
+1391,Female,20,BCA,7.57,65.5,69.2,Yes,Yes,No,No,Yes,No,No,4,4,1,Yes,5,227,3,92,67,7.6,Yes
+1392,Female,24,BSc CS,8.02,67.7,81.6,No,Yes,No,Yes,Yes,No,No,10,7,5,No,0,249,3,100,81,8.8,Yes
+1393,Female,23,BSc CS,8.62,95.5,94.4,No,Yes,Yes,Yes,No,No,Yes,6,9,3,No,0,253,4,92,82,8.8,Yes
+1394,Male,24,BCA Data Science,7.38,66.1,87.6,No,No,No,Yes,Yes,No,No,5,6,5,No,3,184,3,95,75,8.2,Yes
+1395,Female,22,BCA,6.71,88.5,85.3,Yes,Yes,Yes,Yes,No,Yes,No,7,6,1,Yes,4,24,0,89,71,7.9,Yes
+1396,Female,21,BSc CS,8.41,66.6,92.7,Yes,Yes,No,No,Yes,Yes,Yes,8,5,3,No,2,181,0,99,74,8.2,Yes
+1397,Male,22,BSc CS,9.26,83.0,64.0,Yes,No,No,Yes,Yes,Yes,Yes,8,4,1,Yes,6,105,2,100,72,8.0,Yes
+1398,Female,24,BCA Data Science,7.4,79.2,87.8,Yes,Yes,No,No,Yes,Yes,Yes,7,7,6,Yes,1,242,2,100,81,8.8,Yes
+1399,Male,24,BCA Data Science,5.87,74.2,88.7,No,Yes,Yes,No,Yes,Yes,No,7,7,3,No,0,226,1,72,64,7.3,No
+1400,Female,22,BCA,5.86,72.0,97.3,Yes,No,Yes,No,Yes,Yes,Yes,9,9,6,No,3,205,5,94,83,8.9,Yes
+1401,Female,21,BSc CS,5.53,70.6,80.1,Yes,No,No,Yes,No,No,No,10,5,2,Yes,0,275,2,82,64,7.3,Yes
+1402,Male,22,BCA,9.77,70.8,63.5,No,No,Yes,Yes,Yes,No,Yes,10,10,2,No,4,56,5,100,90,9.5,Yes
+1403,Male,23,BSc CS,8.2,73.5,61.8,Yes,No,No,Yes,No,No,Yes,10,9,4,Yes,2,153,2,100,87,9.2,Yes
+1404,Female,20,BCA,8.67,64.0,79.6,Yes,No,No,Yes,Yes,No,No,4,4,0,No,1,243,1,79,59,6.9,Yes
+1405,Male,21,BCA,8.41,75.3,81.2,No,No,No,No,No,No,No,10,5,1,Yes,3,234,1,100,75,8.2,Yes
+1406,Female,22,BCA,7.54,88.4,95.9,No,Yes,No,Yes,Yes,No,No,4,8,1,Yes,2,156,2,86,75,8.2,Yes
+1407,Female,24,BCA,5.62,65.4,89.8,No,Yes,No,No,Yes,Yes,No,4,4,4,No,0,22,3,68,52,6.3,No
+1408,Male,23,BCA,7.93,94.2,89.7,No,Yes,Yes,No,No,No,Yes,10,9,2,Yes,6,209,3,100,87,9.2,Yes
+1409,Female,24,BCA Data Science,7.83,96.4,93.8,No,Yes,Yes,Yes,No,Yes,Yes,5,8,4,Yes,4,267,1,100,84,9.0,Yes
+1410,Female,21,BCA,6.02,95.6,66.8,Yes,No,Yes,Yes,No,Yes,No,7,8,0,No,6,11,2,74,68,7.7,Yes
+1411,Male,20,BSc CS,5.6,80.1,74.5,Yes,Yes,Yes,Yes,No,Yes,Yes,6,10,0,Yes,2,208,5,70,72,8.0,Yes
+1412,Male,23,BSc CS,9.63,66.9,87.1,No,No,Yes,No,Yes,No,No,6,7,6,Yes,0,103,1,100,81,8.8,Yes
+1413,Male,21,BSc CS,8.74,74.6,64.4,Yes,No,No,No,Yes,No,Yes,7,9,1,Yes,2,283,4,100,87,9.2,Yes
+1414,Female,21,BCA Data Science,8.3,64.8,81.6,No,Yes,Yes,Yes,No,Yes,Yes,8,7,4,No,0,0,3,98,79,8.6,Yes
+1415,Male,21,BSc CS,5.76,95.0,70.4,No,No,No,Yes,No,Yes,Yes,9,8,4,Yes,2,45,3,94,80,8.7,Yes
+1416,Male,24,BCA,7.89,70.6,76.4,No,No,No,No,No,Yes,No,6,5,3,No,0,68,5,87,67,7.6,Yes
+1417,Male,20,BCA,5.52,60.4,66.6,No,No,Yes,Yes,Yes,No,Yes,6,10,3,No,3,90,5,74,74,8.2,Yes
+1418,Male,20,BCA Data Science,7.09,67.3,60.4,Yes,No,No,Yes,Yes,No,Yes,5,7,2,Yes,2,252,5,88,73,8.1,Yes
+1419,Female,21,BSc CS,9.73,84.3,64.2,No,No,Yes,Yes,Yes,Yes,Yes,9,4,1,No,4,116,4,100,72,8.0,Yes
+1420,Female,22,BSc CS,5.6,96.9,85.8,No,No,Yes,No,Yes,No,No,10,7,2,Yes,5,265,3,92,76,8.3,Yes
+1421,Female,20,BCA Data Science,8.76,93.6,68.5,No,No,No,No,Yes,No,Yes,6,4,4,Yes,5,115,5,100,72,8.0,Yes
+1422,Male,20,BSc CS,6.35,72.5,62.4,Yes,Yes,No,No,Yes,No,No,5,4,3,Yes,2,27,2,86,63,7.2,Yes
+1423,Female,20,BCA Data Science,8.16,89.0,83.8,Yes,Yes,Yes,Yes,No,No,Yes,10,5,0,No,0,154,4,85,66,7.5,Yes
+1424,Male,23,BSc CS,8.41,81.3,71.2,No,No,Yes,No,Yes,Yes,No,7,7,6,No,4,51,2,100,81,8.8,Yes
+1425,Male,21,BCA,6.91,67.3,63.9,Yes,Yes,Yes,No,No,No,No,9,8,3,Yes,1,70,0,97,82,8.8,Yes
+1426,Male,23,BCA,8.01,79.5,84.8,No,No,Yes,Yes,No,No,No,6,6,0,Yes,0,121,4,86,69,7.8,Yes
+1427,Male,23,BCA Data Science,6.34,67.6,94.5,Yes,No,Yes,No,No,No,No,8,6,3,No,1,53,3,80,66,7.5,Yes
+1428,Female,20,BSc CS,9.46,84.3,86.3,No,Yes,Yes,No,No,No,Yes,7,5,6,Yes,2,5,0,100,75,8.2,Yes
+1429,Male,21,BCA Data Science,6.0,71.0,67.4,No,Yes,Yes,Yes,Yes,No,Yes,5,6,5,Yes,2,283,1,92,73,8.1,Yes
+1430,Female,20,BCA Data Science,6.26,69.9,63.8,Yes,No,Yes,No,Yes,No,No,5,6,6,No,5,87,4,94,74,8.2,Yes
+1431,Male,22,BCA Data Science,6.12,95.1,90.2,Yes,No,No,No,No,Yes,Yes,10,8,4,Yes,6,274,2,100,84,9.0,Yes
+1432,Male,22,BSc CS,5.73,90.2,93.2,No,Yes,Yes,No,Yes,Yes,No,10,9,6,No,3,265,3,95,84,9.0,Yes
+1433,Female,23,BSc CS,7.11,86.4,87.2,No,No,No,No,Yes,Yes,Yes,5,7,6,Yes,3,111,2,100,81,8.8,Yes
+1434,Female,23,BCA,6.18,92.0,69.7,Yes,Yes,Yes,No,No,No,Yes,8,4,3,No,3,230,3,83,61,7.1,Yes
+1435,Male,20,BCA Data Science,8.96,72.0,74.5,Yes,No,Yes,No,Yes,No,Yes,6,10,4,Yes,6,141,1,100,90,9.5,Yes
+1436,Female,24,BSc CS,7.05,80.7,72.7,No,No,No,No,Yes,Yes,No,4,10,2,No,6,177,3,84,80,8.7,Yes
+1437,Male,22,BCA Data Science,5.55,84.9,97.6,Yes,No,Yes,Yes,Yes,No,Yes,8,8,6,No,5,236,2,94,80,8.7,Yes
+1438,Female,23,BSc CS,7.34,95.8,75.9,No,No,Yes,No,Yes,Yes,No,9,4,3,No,2,115,3,92,67,7.6,Yes
+1439,Female,24,BCA,7.81,72.4,60.9,Yes,Yes,Yes,No,No,No,Yes,7,4,4,No,1,243,0,94,68,7.7,Yes
+1440,Female,20,BCA,8.25,71.6,66.5,Yes,Yes,No,Yes,Yes,Yes,Yes,7,6,1,Yes,2,268,0,98,76,8.3,Yes
+1441,Female,23,BCA Data Science,7.73,66.5,92.7,No,No,Yes,Yes,Yes,No,No,9,4,3,Yes,1,105,2,100,72,8.0,Yes
+1442,Female,23,BCA,8.1,95.7,82.3,No,No,Yes,Yes,Yes,No,Yes,10,7,4,Yes,4,168,4,100,81,8.8,Yes
+1443,Male,24,BCA Data Science,7.98,88.0,70.9,No,No,No,No,Yes,No,Yes,5,8,5,No,3,196,5,99,83,8.9,Yes
+1444,Female,23,BCA,7.19,95.9,69.1,Yes,No,No,Yes,Yes,No,No,10,8,0,No,0,53,4,77,70,7.8,Yes
+1445,Female,23,BCA,6.21,67.9,61.7,Yes,Yes,No,No,No,No,Yes,7,4,0,No,0,69,2,63,49,6.1,No
+1446,Female,21,BCA Data Science,5.79,80.8,69.2,No,Yes,No,No,Yes,Yes,Yes,8,4,1,No,0,273,5,66,51,6.2,No
+1447,Male,24,BCA Data Science,8.39,60.4,70.4,No,No,Yes,Yes,Yes,Yes,No,9,4,6,Yes,3,157,3,100,72,8.0,Yes
+1448,Male,21,BSc CS,5.71,74.3,67.7,Yes,No,Yes,Yes,Yes,Yes,No,4,4,2,Yes,5,32,1,81,60,7.0,Yes
+1449,Female,22,BCA Data Science,6.22,75.8,64.1,No,No,Yes,Yes,No,No,Yes,5,5,0,No,2,88,0,63,52,6.3,No
+1450,Male,22,BCA Data Science,7.17,77.4,62.5,No,No,Yes,Yes,Yes,No,No,10,8,3,Yes,5,274,4,100,84,9.0,Yes
+1451,Male,24,BSc CS,8.08,97.3,86.5,Yes,No,Yes,No,No,Yes,No,4,8,4,No,3,261,5,94,80,8.7,Yes
+1452,Male,20,BCA Data Science,8.53,60.5,60.8,Yes,No,Yes,No,Yes,Yes,Yes,5,6,3,No,1,77,3,92,73,8.1,Yes
+1453,Male,21,BSc CS,9.47,82.7,95.9,No,Yes,No,No,Yes,No,No,10,4,1,No,2,124,1,100,72,8.0,Yes
+1454,Male,24,BSc CS,8.49,68.5,93.2,No,Yes,No,Yes,Yes,No,Yes,5,4,5,Yes,1,64,0,100,72,8.0,Yes
+1455,Female,21,BCA,9.07,95.4,69.0,Yes,No,No,No,Yes,Yes,Yes,7,5,4,Yes,2,146,4,100,75,8.2,Yes
+1456,Male,23,BCA,9.21,78.3,96.1,No,No,No,Yes,No,No,No,8,8,5,No,6,79,3,100,84,9.0,Yes
+1457,Female,21,BCA Data Science,9.17,88.8,95.0,Yes,Yes,No,No,No,No,No,6,7,4,No,0,170,1,100,81,8.8,Yes
+1458,Female,24,BCA Data Science,9.44,60.2,92.7,No,No,No,No,No,No,No,7,6,5,Yes,3,19,0,100,78,8.5,Yes
+1459,Male,22,BSc CS,6.34,76.6,69.7,No,No,No,Yes,No,No,Yes,5,7,0,No,5,14,5,70,63,7.2,No
+1460,Female,24,BSc CS,7.46,85.9,69.7,Yes,Yes,Yes,Yes,No,No,Yes,8,5,3,Yes,6,218,2,100,75,8.2,Yes
+1461,Male,20,BCA Data Science,8.33,74.5,71.7,No,Yes,Yes,No,Yes,No,Yes,9,7,5,No,0,86,3,100,81,8.8,Yes
+1462,Male,21,BCA Data Science,8.83,75.9,75.8,No,No,Yes,Yes,No,Yes,Yes,5,7,1,Yes,3,290,1,100,81,8.8,Yes
+1463,Male,23,BCA,8.72,90.7,67.3,No,No,Yes,Yes,Yes,No,Yes,7,4,2,Yes,2,15,4,100,72,8.0,Yes
+1464,Female,22,BCA,8.39,63.8,62.3,Yes,Yes,Yes,Yes,Yes,No,No,7,7,6,No,4,219,2,100,81,8.8,Yes
+1465,Female,21,BCA,9.01,95.8,85.3,No,Yes,No,No,Yes,Yes,No,10,9,3,Yes,0,62,4,100,87,9.2,Yes
+1466,Male,22,BCA,7.44,86.1,93.1,No,Yes,Yes,No,Yes,No,Yes,10,9,2,No,1,248,3,89,80,8.7,Yes
+1467,Male,23,BCA Data Science,9.54,95.8,78.1,Yes,No,No,Yes,Yes,Yes,Yes,7,10,0,No,6,280,3,100,90,9.5,Yes
+1468,Female,20,BSc CS,7.57,80.5,69.2,Yes,Yes,Yes,No,Yes,Yes,No,7,10,2,Yes,5,131,5,100,90,9.5,Yes
+1469,Female,20,BCA,6.08,80.3,87.6,Yes,No,Yes,Yes,No,No,No,9,9,6,No,6,119,1,100,87,9.2,Yes
+1470,Female,22,BSc CS,5.88,63.4,88.1,Yes,Yes,No,Yes,No,No,Yes,6,4,4,Yes,6,198,3,97,70,7.8,Yes
+1471,Female,21,BSc CS,9.52,64.8,85.2,Yes,Yes,No,Yes,No,No,Yes,10,6,6,Yes,3,233,1,100,78,8.5,Yes
+1472,Male,21,BSc CS,8.36,90.4,86.7,No,No,Yes,No,No,Yes,No,6,9,3,Yes,6,170,1,100,87,9.2,Yes
+1473,Male,24,BSc CS,8.66,95.1,89.5,No,No,No,Yes,Yes,No,No,7,9,3,No,6,200,3,100,87,9.2,Yes
+1474,Male,21,BCA Data Science,6.72,86.5,67.4,No,Yes,Yes,No,Yes,No,No,9,5,4,Yes,3,247,2,100,75,8.2,Yes
+1475,Female,24,BCA,8.96,67.4,84.7,No,Yes,Yes,No,No,Yes,Yes,4,6,3,Yes,0,60,4,100,78,8.5,Yes
+1476,Female,22,BSc CS,9.67,83.8,75.4,Yes,Yes,Yes,No,No,No,Yes,9,9,3,Yes,6,237,5,100,87,9.2,Yes
+1477,Female,22,BSc CS,8.31,74.0,64.6,Yes,Yes,No,Yes,Yes,No,No,9,9,0,Yes,3,247,5,100,87,9.2,Yes
+1478,Female,22,BCA Data Science,6.04,72.4,87.1,Yes,No,Yes,No,No,Yes,Yes,10,10,1,Yes,1,92,0,84,80,8.7,Yes
+1479,Female,24,BCA,5.67,81.9,84.8,Yes,No,Yes,Yes,Yes,No,No,8,5,3,Yes,1,153,0,85,66,7.5,Yes
+1480,Female,22,BCA Data Science,6.1,78.6,71.9,No,Yes,Yes,Yes,Yes,Yes,Yes,5,6,6,Yes,1,282,1,94,74,8.2,Yes
+1481,Female,21,BSc CS,8.64,76.0,80.9,No,No,Yes,No,No,Yes,No,9,7,5,Yes,4,104,0,100,81,8.8,Yes
+1482,Female,20,BCA,7.1,85.0,91.2,Yes,No,Yes,No,No,No,Yes,8,5,0,No,0,272,0,72,58,6.8,Yes
+1483,Female,24,BCA,8.25,73.8,72.7,No,Yes,Yes,No,Yes,Yes,No,5,7,0,Yes,1,269,5,88,73,8.1,Yes
+1484,Male,24,BSc CS,5.91,73.3,81.7,No,No,Yes,Yes,Yes,No,No,5,6,6,No,3,65,2,87,70,7.8,Yes
+1485,Female,24,BSc CS,6.17,64.8,74.4,No,Yes,No,Yes,No,No,Yes,7,6,6,No,4,146,2,95,75,8.2,Yes
+1486,Female,24,BCA,9.29,90.9,71.6,Yes,No,No,No,Yes,Yes,Yes,9,5,0,Yes,4,29,0,100,75,8.2,Yes
+1487,Female,21,BSc CS,8.98,60.4,96.0,Yes,No,No,Yes,No,Yes,Yes,10,9,0,No,5,273,5,100,87,9.2,Yes
+1488,Female,21,BCA,8.34,95.0,98.0,Yes,No,Yes,Yes,Yes,Yes,No,10,5,4,No,0,216,3,100,75,8.2,Yes
+1489,Male,23,BSc CS,9.67,72.8,85.8,Yes,No,No,No,No,No,Yes,4,9,5,No,1,156,5,100,87,9.2,Yes
+1490,Female,21,BCA Data Science,9.15,62.2,60.2,No,No,No,No,Yes,Yes,No,9,5,3,No,0,51,3,100,75,8.2,Yes
+1491,Male,23,BSc CS,7.78,94.1,75.6,No,Yes,Yes,No,Yes,No,No,6,6,2,No,1,274,2,84,68,7.7,Yes
+1492,Male,21,BCA,9.11,66.1,73.4,No,Yes,No,Yes,Yes,Yes,No,4,5,3,No,5,169,0,100,75,8.2,Yes
+1493,Male,21,BCA Data Science,9.63,97.4,64.5,No,No,Yes,No,No,No,Yes,4,4,6,Yes,1,79,2,100,72,8.0,Yes
+1494,Male,22,BCA Data Science,8.42,73.0,97.1,Yes,No,No,No,No,No,Yes,10,7,1,Yes,5,261,1,100,81,8.8,Yes
+1495,Male,23,BCA Data Science,9.22,97.8,69.4,No,Yes,No,Yes,Yes,Yes,Yes,5,4,1,No,0,140,1,87,64,7.3,Yes
+1496,Female,22,BCA,8.15,63.5,61.9,No,No,Yes,Yes,No,No,No,4,8,3,Yes,2,56,2,99,83,8.9,Yes
+1497,Female,22,BCA,8.56,69.4,94.0,Yes,Yes,Yes,Yes,No,Yes,No,7,6,4,Yes,3,94,2,100,78,8.5,Yes
+1498,Male,20,BSc CS,6.81,63.7,60.5,Yes,No,No,No,No,Yes,No,5,8,3,Yes,0,66,5,86,75,8.2,Yes
+1499,Female,24,BSc CS,9.66,93.6,91.1,Yes,No,Yes,Yes,No,No,No,10,5,4,Yes,0,65,1,100,75,8.2,Yes
+1500,Male,22,BCA Data Science,6.59,93.3,92.4,No,No,No,Yes,No,Yes,No,7,8,4,Yes,1,140,5,94,80,8.7,Yes
+1501,Male,20,BCA Data Science,9.61,62.3,97.0,Yes,No,No,Yes,Yes,No,No,8,10,3,No,4,139,1,100,90,9.5,Yes
+1502,Male,22,BCA Data Science,7.96,82.5,60.3,No,No,No,Yes,No,No,Yes,5,5,0,Yes,2,20,5,87,67,7.6,Yes
+1503,Female,22,BCA Data Science,6.66,90.0,84.4,Yes,Yes,Yes,Yes,No,No,No,4,9,4,No,5,68,3,87,79,8.6,Yes
+1504,Female,22,BCA Data Science,8.19,60.4,73.5,No,Yes,No,Yes,Yes,No,No,10,9,5,Yes,6,226,1,100,87,9.2,Yes
+1505,Female,21,BSc CS,8.0,90.7,88.6,Yes,No,Yes,No,No,Yes,No,4,7,1,No,1,90,1,78,67,7.6,Yes
+1506,Male,24,BCA Data Science,6.71,71.8,93.6,No,Yes,Yes,Yes,Yes,No,Yes,7,9,3,Yes,5,269,1,99,86,9.2,Yes
+1507,Male,21,BCA Data Science,7.12,60.8,91.4,Yes,Yes,Yes,Yes,No,Yes,Yes,10,4,6,Yes,4,173,5,100,72,8.0,Yes
+1508,Female,20,BSc CS,7.57,81.4,76.9,Yes,No,No,No,Yes,Yes,Yes,8,9,2,Yes,0,22,0,94,83,8.9,Yes
+1509,Male,20,BCA Data Science,9.31,75.8,60.0,Yes,Yes,Yes,No,No,Yes,No,9,6,1,No,5,57,3,100,78,8.5,Yes
+1510,Female,24,BCA,5.94,96.3,73.6,No,Yes,No,Yes,Yes,Yes,Yes,7,8,2,Yes,5,217,1,89,77,8.4,Yes
+1511,Female,22,BCA Data Science,7.0,63.9,94.8,No,No,Yes,Yes,Yes,Yes,No,5,7,3,No,6,34,0,90,75,8.2,Yes
+1512,Female,24,BCA,5.89,97.8,66.9,No,No,No,No,No,No,No,8,10,5,No,1,125,3,85,81,8.8,Yes
+1513,Male,20,BCA Data Science,7.82,78.7,80.4,Yes,No,Yes,No,Yes,Yes,Yes,6,4,1,Yes,2,285,3,92,67,7.6,Yes
+1514,Male,23,BCA,9.42,73.7,92.3,Yes,No,No,Yes,No,Yes,Yes,10,5,0,Yes,0,73,3,100,75,8.2,Yes
+1515,Male,24,BSc CS,5.73,64.0,82.1,No,Yes,Yes,Yes,No,Yes,Yes,5,4,0,No,1,93,3,57,46,5.8,No
+1516,Female,24,BSc CS,9.58,77.9,87.5,No,Yes,No,Yes,Yes,Yes,Yes,8,10,1,Yes,0,202,3,100,90,9.5,Yes
+1517,Male,23,BCA,9.07,94.9,79.1,Yes,No,Yes,No,Yes,No,Yes,9,5,3,Yes,1,200,1,100,75,8.2,Yes
+1518,Male,24,BCA Data Science,6.85,84.4,91.4,Yes,Yes,No,No,Yes,No,Yes,4,4,2,No,0,122,2,70,54,6.5,No
+1519,Male,22,BCA Data Science,5.78,82.7,88.7,No,Yes,Yes,Yes,Yes,No,Yes,8,8,0,No,0,24,2,62,61,7.1,No
+1520,Female,23,BSc CS,9.72,88.6,96.4,Yes,No,No,No,Yes,Yes,No,7,9,4,Yes,4,76,0,100,87,9.2,Yes
+1521,Female,22,BSc CS,9.24,61.4,66.1,No,Yes,Yes,Yes,Yes,Yes,Yes,8,8,5,No,3,67,2,100,84,9.0,Yes
+1522,Male,23,BCA,9.18,76.4,93.8,No,Yes,Yes,Yes,Yes,No,Yes,10,4,1,No,4,44,3,100,72,8.0,Yes
+1523,Female,20,BCA,6.23,71.2,62.6,No,No,Yes,Yes,Yes,No,No,7,6,6,No,5,71,0,97,76,8.3,Yes
+1524,Male,24,BCA Data Science,9.19,75.2,92.6,Yes,No,No,No,No,Yes,No,8,7,2,Yes,4,29,5,100,81,8.8,Yes
+1525,Male,23,BCA,6.16,64.0,74.3,No,Yes,Yes,No,No,Yes,No,7,7,5,No,0,43,1,83,70,7.8,Yes
+1526,Male,24,BCA,6.36,72.5,72.1,No,Yes,No,Yes,No,No,Yes,8,5,3,Yes,5,109,2,98,73,8.1,Yes
+1527,Female,20,BCA,5.77,90.7,90.0,No,Yes,Yes,Yes,Yes,No,No,6,9,1,Yes,1,35,2,74,71,7.9,Yes
+1528,Female,24,BSc CS,9.26,77.2,75.9,Yes,No,Yes,Yes,Yes,No,No,10,6,1,Yes,2,214,3,100,78,8.5,Yes
+1529,Female,22,BSc CS,8.87,96.7,76.6,No,Yes,Yes,Yes,Yes,No,No,4,5,3,Yes,3,162,0,100,75,8.2,Yes
+1530,Female,21,BCA Data Science,8.61,97.6,95.8,Yes,No,Yes,Yes,Yes,Yes,No,9,8,6,Yes,4,193,1,100,84,9.0,Yes
+1531,Female,20,BCA Data Science,9.68,81.9,60.5,No,Yes,No,No,Yes,No,No,7,7,2,No,6,277,3,100,81,8.8,Yes
+1532,Female,20,BCA,7.47,74.2,81.0,Yes,No,No,No,No,No,Yes,4,10,6,Yes,0,8,4,100,90,9.5,Yes
+1533,Female,23,BCA,8.72,83.7,80.7,No,Yes,No,No,Yes,Yes,No,8,7,0,Yes,6,240,0,100,81,8.8,Yes
+1534,Female,20,BCA Data Science,9.4,84.5,89.8,No,Yes,No,Yes,No,No,No,6,10,6,No,5,123,0,100,90,9.5,Yes
+1535,Male,23,BSc CS,5.61,90.0,91.9,No,No,Yes,No,Yes,No,Yes,8,9,3,Yes,6,295,3,94,83,8.9,Yes
+1536,Male,23,BCA Data Science,6.25,94.4,79.7,No,Yes,Yes,Yes,Yes,No,No,10,8,1,No,1,47,0,76,69,7.8,Yes
+1537,Female,22,BSc CS,8.2,82.5,61.1,Yes,No,Yes,Yes,No,No,Yes,5,9,1,No,1,274,1,81,75,8.2,Yes
+1538,Male,23,BCA Data Science,5.72,63.2,65.5,Yes,Yes,Yes,No,Yes,Yes,Yes,6,6,1,Yes,0,253,2,71,60,7.0,Yes
+1539,Male,20,BCA,7.61,60.8,62.8,Yes,Yes,No,No,No,No,Yes,5,6,0,Yes,5,290,5,90,72,8.0,Yes
+1540,Male,20,BCA,9.77,78.4,83.3,Yes,Yes,No,Yes,Yes,Yes,Yes,8,8,6,Yes,1,186,0,100,84,9.0,Yes
+1541,Female,21,BCA,6.1,63.2,86.3,Yes,No,No,No,Yes,Yes,No,9,8,5,No,3,253,3,92,79,8.6,Yes
+1542,Male,24,BCA,6.24,86.1,93.7,No,No,Yes,No,Yes,Yes,No,7,7,3,No,6,163,4,87,73,8.1,Yes
+1543,Male,22,BCA,7.35,81.6,74.2,Yes,No,Yes,Yes,No,No,No,8,10,5,No,3,15,0,100,90,9.5,Yes
+1544,Female,21,BSc CS,8.9,73.6,62.8,No,No,Yes,No,Yes,Yes,No,9,4,5,No,1,238,4,100,72,8.0,Yes
+1545,Male,22,BCA,5.78,70.8,68.1,Yes,Yes,No,Yes,No,No,No,10,6,1,Yes,0,252,3,80,66,7.5,Yes
+1546,Male,22,BSc CS,6.01,77.2,82.9,No,Yes,Yes,No,Yes,Yes,No,6,5,6,No,0,273,4,84,65,7.4,Yes
+1547,Female,23,BCA,5.57,77.9,91.5,No,No,No,No,No,No,Yes,8,10,2,No,4,24,3,76,75,8.2,Yes
+1548,Male,22,BSc CS,9.15,96.8,64.6,No,Yes,Yes,Yes,Yes,Yes,Yes,4,6,6,No,1,87,0,100,78,8.5,Yes
+1549,Female,20,BCA Data Science,9.76,95.5,93.0,No,Yes,Yes,Yes,No,Yes,No,6,9,4,No,2,87,1,100,87,9.2,Yes
+1550,Female,20,BCA,6.87,65.6,82.2,No,No,Yes,Yes,No,No,No,6,10,5,No,1,47,2,88,82,8.8,Yes
+1551,Female,21,BSc CS,7.9,93.2,85.1,Yes,Yes,Yes,No,Yes,Yes,Yes,9,5,3,No,1,249,0,95,72,8.0,Yes
+1552,Male,22,BCA,8.77,79.5,71.9,No,No,Yes,Yes,Yes,Yes,No,7,7,6,Yes,6,204,1,100,81,8.8,Yes
+1553,Female,22,BCA Data Science,6.21,71.7,93.1,Yes,Yes,No,Yes,Yes,Yes,Yes,7,5,2,Yes,3,271,3,87,67,7.6,Yes
+1554,Female,21,BCA,9.49,63.2,76.4,Yes,No,No,No,Yes,No,No,6,4,0,No,5,216,1,97,70,7.8,Yes
+1555,Male,22,BCA Data Science,6.26,70.5,83.1,No,Yes,Yes,Yes,Yes,Yes,Yes,4,4,4,No,1,33,4,76,57,6.8,Yes
+1556,Male,20,BCA Data Science,9.3,86.6,75.4,No,Yes,Yes,No,No,Yes,Yes,10,5,2,No,5,147,5,100,75,8.2,Yes
+1557,Female,20,BCA Data Science,7.66,86.6,78.1,No,Yes,Yes,No,Yes,Yes,Yes,6,7,1,Yes,5,242,3,97,79,8.6,Yes
+1558,Male,21,BCA Data Science,9.69,93.5,66.5,Yes,No,No,Yes,No,Yes,No,4,4,6,Yes,4,148,1,100,72,8.0,Yes
+1559,Female,20,BCA,5.93,90.5,72.8,No,No,No,No,No,No,No,4,10,2,No,5,170,4,73,73,8.1,Yes
+1560,Male,21,BCA,8.45,87.7,60.8,No,Yes,Yes,No,No,Yes,Yes,8,9,5,No,2,105,5,100,87,9.2,Yes
+1561,Female,24,BCA Data Science,8.25,96.7,93.3,No,Yes,No,No,No,No,No,6,6,1,Yes,4,266,5,100,78,8.5,Yes
+1562,Male,22,BCA,7.36,77.3,96.8,No,No,Yes,Yes,No,Yes,No,9,5,4,No,4,285,5,100,75,8.2,Yes
+1563,Female,22,BSc CS,6.74,90.4,60.6,Yes,Yes,No,Yes,Yes,No,No,4,7,2,Yes,0,128,1,79,68,7.7,Yes
+1564,Female,20,BCA,8.36,89.2,65.9,Yes,No,Yes,Yes,No,Yes,No,5,4,3,No,1,197,3,90,66,7.5,Yes
+1565,Female,24,BCA Data Science,9.46,82.7,66.6,No,No,Yes,Yes,No,Yes,No,8,5,2,No,0,152,4,99,74,8.2,Yes
+1566,Female,20,BCA Data Science,7.12,93.3,76.6,Yes,No,No,No,No,No,No,7,7,3,No,0,286,0,82,70,7.8,Yes
+1567,Male,22,BSc CS,8.15,71.5,69.2,No,Yes,No,Yes,No,Yes,No,9,4,3,No,6,27,0,100,72,8.0,Yes
+1568,Female,20,BCA,5.96,82.6,91.2,No,No,Yes,Yes,Yes,Yes,Yes,8,9,3,Yes,1,79,2,87,79,8.6,Yes
+1569,Female,23,BCA,8.18,67.6,62.6,Yes,Yes,Yes,Yes,Yes,Yes,No,4,10,4,No,3,28,0,95,87,9.2,Yes
+1570,Male,23,BCA,9.73,91.2,92.0,No,No,Yes,No,Yes,Yes,Yes,5,10,5,Yes,1,261,5,100,90,9.5,Yes
+1571,Male,24,BCA,6.75,85.4,96.4,No,No,No,No,No,Yes,No,7,10,3,Yes,0,145,3,90,84,9.0,Yes
+1572,Male,21,BSc CS,5.55,71.5,84.5,No,Yes,No,Yes,No,No,No,4,5,2,Yes,2,268,3,74,59,6.9,No
+1573,Female,21,BSc CS,6.15,84.9,81.4,No,Yes,No,No,No,Yes,No,7,7,4,Yes,4,259,5,97,79,8.6,Yes
+1574,Male,20,BCA Data Science,6.89,96.3,73.2,No,Yes,Yes,Yes,Yes,Yes,Yes,9,4,3,No,2,118,5,89,65,7.4,Yes
+1575,Female,23,BCA Data Science,8.63,74.6,97.0,Yes,Yes,No,Yes,Yes,Yes,No,10,6,4,Yes,1,164,0,100,78,8.5,Yes
+1576,Male,21,BCA Data Science,9.75,81.8,67.6,No,No,No,No,Yes,Yes,Yes,7,10,4,Yes,0,298,0,100,90,9.5,Yes
+1577,Male,23,BCA,8.98,93.9,73.7,No,Yes,No,Yes,No,Yes,Yes,8,10,3,No,2,286,1,100,90,9.5,Yes
+1578,Female,22,BCA Data Science,8.19,93.2,81.6,Yes,No,Yes,Yes,No,Yes,Yes,8,8,2,Yes,1,148,2,100,84,9.0,Yes
+1579,Female,20,BCA Data Science,9.25,66.0,70.9,Yes,No,No,Yes,Yes,No,No,9,4,0,No,3,133,1,98,70,7.8,Yes
+1580,Female,20,BCA Data Science,6.38,91.0,72.5,Yes,Yes,No,Yes,Yes,No,Yes,7,8,5,Yes,4,245,1,100,84,9.0,Yes
+1581,Male,24,BCA,5.65,79.3,84.7,No,No,No,Yes,Yes,Yes,Yes,10,10,6,Yes,4,194,5,100,90,9.5,Yes
+1582,Male,24,BCA Data Science,5.72,89.1,86.4,No,No,Yes,Yes,No,Yes,No,6,5,2,No,0,121,1,65,54,6.5,No
+1583,Male,22,BCA Data Science,6.48,88.4,93.8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,5,2,Yes,2,179,4,87,67,7.6,Yes
+1584,Male,24,BCA,8.11,78.2,64.7,Yes,Yes,No,Yes,No,No,Yes,7,9,2,No,6,282,2,98,85,9.1,Yes
+1585,Male,22,BSc CS,6.87,80.6,64.0,No,No,No,No,Yes,Yes,Yes,10,8,1,No,5,283,1,88,76,8.3,Yes
+1586,Female,24,BCA,9.01,65.4,97.2,No,No,Yes,Yes,No,Yes,No,6,8,3,No,6,43,0,100,84,9.0,Yes
+1587,Male,20,BCA,7.63,92.8,74.6,Yes,Yes,Yes,No,Yes,No,Yes,9,6,0,No,0,172,2,79,65,7.4,Yes
+1588,Female,20,BCA Data Science,8.62,83.6,92.9,Yes,Yes,No,No,No,No,No,5,7,3,Yes,1,7,2,100,81,8.8,Yes
+1589,Female,23,BCA Data Science,8.82,71.2,81.7,Yes,No,No,No,No,Yes,Yes,6,8,5,No,6,135,1,100,84,9.0,Yes
+1590,Female,21,BCA Data Science,7.39,77.7,96.7,No,Yes,No,Yes,Yes,No,No,4,7,1,No,6,141,2,83,70,7.8,Yes
+1591,Male,22,BSc CS,8.21,65.6,83.5,Yes,Yes,Yes,Yes,Yes,No,No,4,8,5,Yes,0,132,2,100,84,9.0,Yes
+1592,Male,20,BCA,8.59,82.8,73.3,Yes,No,Yes,Yes,Yes,Yes,No,8,6,6,No,0,218,2,100,78,8.5,Yes
+1593,Female,21,BCA,8.11,73.7,97.1,No,No,No,Yes,Yes,No,Yes,6,5,4,Yes,0,108,2,100,75,8.2,Yes
+1594,Female,21,BCA,9.07,61.2,87.6,No,Yes,Yes,Yes,No,Yes,Yes,8,7,5,No,2,137,1,100,81,8.8,Yes
+1595,Male,23,BCA,6.55,89.2,73.8,No,No,Yes,Yes,No,No,No,4,6,4,Yes,2,247,4,90,72,8.0,Yes
+1596,Female,21,BCA Data Science,6.49,91.5,97.5,Yes,No,Yes,No,No,No,No,4,4,3,No,4,75,4,79,59,6.9,Yes
+1597,Female,22,BCA Data Science,9.27,60.6,64.6,No,No,Yes,Yes,Yes,No,Yes,9,5,0,Yes,4,271,3,100,75,8.2,Yes
+1598,Female,21,BSc CS,7.23,81.2,87.1,Yes,No,No,Yes,Yes,Yes,No,7,7,5,No,5,223,2,100,81,8.8,Yes
+1599,Female,23,BCA,6.29,89.1,94.8,Yes,Yes,Yes,No,No,No,No,7,5,4,No,6,49,1,92,70,7.8,Yes
+1600,Female,20,BCA,5.71,79.7,80.0,No,No,No,No,No,Yes,Yes,4,10,5,Yes,3,265,2,89,83,8.9,Yes
+1601,Male,20,BSc CS,6.72,64.5,70.4,No,Yes,Yes,No,No,Yes,Yes,9,6,1,Yes,1,282,4,87,70,7.8,Yes
+1602,Female,20,BSc CS,9.38,96.5,80.5,Yes,Yes,No,Yes,No,Yes,No,8,7,5,No,4,64,3,100,81,8.8,Yes
+1603,Male,24,BCA,8.54,92.1,76.9,No,No,No,Yes,Yes,No,Yes,6,10,0,Yes,5,38,2,100,90,9.5,Yes
+1604,Male,24,BCA,6.69,84.0,79.5,Yes,No,Yes,No,Yes,No,Yes,10,8,5,Yes,5,4,1,100,84,9.0,Yes
+1605,Female,24,BSc CS,9.25,68.4,67.4,No,Yes,No,Yes,No,No,Yes,5,9,0,Yes,0,222,0,94,83,8.9,Yes
+1606,Female,24,BCA,6.4,66.8,75.9,No,No,Yes,No,No,Yes,No,10,5,2,No,3,200,4,85,66,7.5,Yes
+1607,Male,23,BCA,6.77,68.3,96.6,No,No,No,No,Yes,No,Yes,5,7,2,Yes,2,203,5,86,72,8.0,Yes
+1608,Male,22,BCA,8.08,86.1,61.1,No,Yes,No,Yes,No,No,No,7,7,6,No,3,204,2,100,81,8.8,Yes
+1609,Male,23,BCA Data Science,8.63,72.9,91.1,No,No,No,Yes,Yes,Yes,Yes,8,8,2,Yes,4,276,0,100,84,9.0,Yes
+1610,Female,23,BCA Data Science,8.86,72.7,73.4,Yes,Yes,Yes,No,Yes,Yes,No,10,9,1,No,6,82,2,100,87,9.2,Yes
+1611,Male,23,BSc CS,7.88,69.5,60.5,Yes,Yes,No,No,Yes,Yes,No,6,4,1,Yes,0,139,5,89,65,7.4,Yes
+1612,Female,24,BSc CS,7.22,91.1,93.3,Yes,Yes,Yes,No,Yes,Yes,Yes,4,9,4,No,1,159,2,83,76,8.3,Yes
+1613,Male,23,BCA Data Science,5.6,70.4,67.7,No,No,No,No,No,Yes,Yes,7,8,2,No,2,273,4,70,66,7.5,No
+1614,Male,20,BCA Data Science,9.77,87.6,96.2,Yes,No,Yes,Yes,No,Yes,No,6,7,4,Yes,5,159,2,100,81,8.8,Yes
+1615,Male,22,BSc CS,7.91,67.9,95.8,Yes,Yes,Yes,No,No,Yes,Yes,10,7,2,No,2,172,1,95,78,8.5,Yes
+1616,Male,23,BCA Data Science,7.93,75.4,60.2,Yes,No,No,No,Yes,No,No,9,7,4,Yes,0,217,5,100,81,8.8,Yes
+1617,Female,20,BCA,8.75,66.2,88.4,Yes,Yes,No,Yes,Yes,No,No,5,9,6,No,1,280,3,100,87,9.2,Yes
+1618,Female,21,BCA,6.01,97.8,87.4,No,No,No,Yes,Yes,No,Yes,10,8,5,No,4,128,3,96,81,8.8,Yes
+1619,Male,24,BCA,9.49,87.4,92.4,Yes,Yes,No,Yes,No,No,Yes,5,7,0,Yes,2,96,1,99,80,8.7,Yes
+1620,Female,22,BSc CS,6.92,62.3,77.8,Yes,Yes,No,Yes,No,Yes,Yes,6,6,6,No,4,156,2,99,77,8.4,Yes
+1621,Female,24,BSc CS,7.83,85.1,62.9,Yes,Yes,Yes,No,Yes,No,Yes,5,10,4,No,2,294,4,92,85,9.1,Yes
+1622,Female,23,BSc CS,9.41,68.0,60.1,Yes,Yes,Yes,Yes,Yes,Yes,No,10,4,2,Yes,0,70,4,100,72,8.0,Yes
+1623,Female,21,BCA,7.53,71.5,88.9,Yes,No,No,No,No,No,No,10,8,2,Yes,4,109,1,100,84,9.0,Yes
+1624,Female,22,BCA Data Science,7.91,78.6,90.0,Yes,No,No,Yes,Yes,No,No,10,9,2,No,1,286,1,93,82,8.8,Yes
+1625,Female,23,BCA Data Science,9.51,97.8,67.4,No,Yes,Yes,No,No,Yes,No,6,8,0,No,0,140,5,88,76,8.3,Yes
+1626,Male,21,BCA Data Science,9.78,86.8,70.4,Yes,Yes,No,No,No,Yes,No,9,10,5,Yes,0,189,0,100,90,9.5,Yes
+1627,Female,24,BCA Data Science,5.86,91.7,64.5,No,Yes,No,Yes,No,Yes,Yes,6,10,5,No,5,86,4,88,82,8.8,Yes
+1628,Male,20,BCA,9.54,75.3,91.8,Yes,Yes,Yes,Yes,No,Yes,Yes,7,4,2,Yes,5,258,3,100,72,8.0,Yes
+1629,Male,22,BCA,6.68,73.3,73.0,Yes,No,Yes,Yes,Yes,Yes,Yes,5,6,4,Yes,6,86,0,100,78,8.5,Yes
+1630,Female,21,BCA Data Science,5.85,87.5,69.4,Yes,Yes,No,Yes,No,No,Yes,6,5,4,No,3,115,1,80,63,7.2,Yes
+1631,Male,23,BCA,9.71,69.9,76.7,Yes,No,No,No,No,No,Yes,4,10,4,No,1,275,4,100,90,9.5,Yes
+1632,Female,22,BSc CS,8.28,85.9,71.0,No,No,Yes,Yes,No,Yes,No,6,4,0,Yes,3,71,3,94,68,7.7,Yes
+1633,Female,24,BCA Data Science,7.13,82.4,61.3,Yes,No,Yes,Yes,No,No,No,6,9,0,Yes,2,156,1,83,76,8.3,Yes
+1634,Male,23,BCA,8.73,76.7,83.4,No,No,No,Yes,No,No,No,7,9,3,No,0,119,4,95,84,9.0,Yes
+1635,Female,23,BCA,8.83,96.3,75.2,Yes,Yes,Yes,No,Yes,Yes,Yes,9,6,6,Yes,0,158,1,100,78,8.5,Yes
+1636,Male,23,BCA Data Science,6.21,60.0,65.6,Yes,No,No,Yes,Yes,Yes,Yes,7,4,5,Yes,1,284,2,95,69,7.8,Yes
+1637,Female,24,BCA,6.98,77.9,86.1,Yes,No,No,No,Yes,Yes,No,5,6,6,Yes,3,167,2,100,78,8.5,Yes
+1638,Female,21,BCA Data Science,7.8,73.2,85.5,Yes,Yes,Yes,Yes,No,No,No,8,10,0,No,0,117,1,78,76,8.3,Yes
+1639,Male,23,BCA Data Science,6.41,76.5,72.9,Yes,No,Yes,No,No,No,No,4,6,3,Yes,1,203,5,83,67,7.6,Yes
+1640,Female,22,BSc CS,6.99,87.8,84.9,No,Yes,Yes,No,Yes,No,No,4,7,5,No,3,27,2,89,74,8.2,Yes
+1641,Male,22,BSc CS,8.23,82.9,90.5,No,No,No,No,No,Yes,Yes,7,8,6,No,6,40,1,100,84,9.0,Yes
+1642,Female,22,BSc CS,8.04,67.5,90.9,No,No,Yes,No,No,Yes,Yes,10,7,3,No,0,189,2,96,78,8.5,Yes
+1643,Female,21,BCA Data Science,6.77,91.1,80.6,Yes,No,No,No,Yes,No,No,6,9,0,Yes,2,18,4,80,75,8.2,Yes
+1644,Male,23,BSc CS,5.86,63.6,87.6,No,No,No,No,No,Yes,No,4,4,2,No,0,75,4,62,49,6.1,No
+1645,Male,20,BCA,9.72,63.0,95.2,No,No,No,Yes,Yes,No,Yes,10,7,0,Yes,4,133,2,100,81,8.8,Yes
+1646,Male,22,BCA,7.97,68.2,95.5,No,Yes,No,Yes,No,Yes,No,6,4,3,Yes,0,212,5,97,70,7.8,Yes
+1647,Female,24,BCA,7.49,90.0,84.1,Yes,Yes,Yes,Yes,No,Yes,Yes,8,6,5,No,4,215,5,100,78,8.5,Yes
+1648,Male,23,BSc CS,7.55,81.2,73.0,No,No,No,Yes,No,No,Yes,8,9,1,No,2,206,0,84,77,8.4,Yes
+1649,Female,23,BCA Data Science,9.74,63.2,88.4,No,No,No,No,No,No,Yes,5,8,4,Yes,4,180,4,100,84,9.0,Yes
+1650,Female,24,BCA,8.73,70.8,88.3,Yes,No,Yes,No,Yes,Yes,No,5,5,0,No,1,81,5,81,63,7.2,Yes
+1651,Male,23,BCA,7.01,68.3,94.2,No,No,No,Yes,No,No,Yes,10,7,3,No,2,230,1,92,76,8.3,Yes
+1652,Female,20,BCA,5.51,91.5,89.0,Yes,Yes,No,No,No,No,Yes,9,4,4,Yes,1,257,0,90,66,7.5,Yes
+1653,Male,22,BCA Data Science,8.12,66.3,83.8,Yes,No,Yes,No,Yes,Yes,No,6,9,6,Yes,1,241,5,100,87,9.2,Yes
+1654,Female,20,BCA Data Science,6.76,94.0,67.9,No,No,Yes,No,Yes,Yes,No,8,9,0,No,6,81,1,82,76,8.3,Yes
+1655,Male,22,BCA,8.72,85.9,75.4,No,No,Yes,No,No,Yes,Yes,7,7,6,Yes,2,203,5,100,81,8.8,Yes
+1656,Male,22,BCA Data Science,8.58,79.4,84.7,No,Yes,Yes,Yes,No,Yes,Yes,6,7,5,No,1,124,3,100,81,8.8,Yes
+1657,Male,21,BCA Data Science,6.92,86.4,77.4,No,Yes,No,No,No,No,No,10,7,5,No,4,140,4,100,81,8.8,Yes
+1658,Female,21,BCA Data Science,7.74,61.0,93.4,No,No,No,Yes,No,No,No,9,6,1,Yes,1,149,3,95,75,8.2,Yes
+1659,Female,21,BSc CS,9.16,82.2,65.6,Yes,No,No,No,No,Yes,No,9,5,4,No,4,191,3,100,75,8.2,Yes
+1660,Female,23,BSc CS,7.57,78.4,74.4,Yes,No,Yes,No,Yes,Yes,Yes,6,8,6,Yes,5,100,2,100,84,9.0,Yes
+1661,Male,21,BCA,9.42,94.4,91.9,Yes,Yes,No,Yes,No,Yes,No,8,4,2,Yes,6,28,3,100,72,8.0,Yes
+1662,Male,21,BCA Data Science,8.93,66.9,95.6,Yes,Yes,No,Yes,Yes,No,No,4,9,1,Yes,1,267,2,95,84,9.0,Yes
+1663,Male,24,BCA,6.55,88.9,78.1,Yes,Yes,No,Yes,Yes,No,Yes,7,4,3,Yes,0,277,4,88,64,7.3,Yes
+1664,Female,22,BCA,6.79,60.4,76.3,Yes,No,Yes,No,Yes,No,No,8,6,3,Yes,2,259,3,96,75,8.2,Yes
+1665,Female,20,BCA,9.23,69.5,70.5,No,No,Yes,Yes,No,Yes,No,8,7,3,Yes,1,33,3,100,81,8.8,Yes
+1666,Male,24,BSc CS,6.97,86.1,91.3,Yes,Yes,Yes,Yes,No,No,No,10,8,3,Yes,5,153,4,100,84,9.0,Yes
+1667,Female,22,BSc CS,6.16,65.9,89.1,Yes,Yes,Yes,No,No,No,No,5,6,3,No,2,74,2,75,63,7.2,Yes
+1668,Female,22,BCA,6.86,71.7,81.4,No,Yes,No,Yes,No,No,Yes,7,10,2,Yes,6,103,1,98,88,9.3,Yes
+1669,Female,23,BCA Data Science,5.6,76.2,74.5,Yes,Yes,No,No,Yes,Yes,Yes,5,6,5,No,5,240,0,84,68,7.7,Yes
+1670,Male,24,BCA,6.7,83.1,74.3,Yes,Yes,No,No,No,No,No,4,7,1,Yes,2,211,1,79,68,7.7,Yes
+1671,Female,23,BCA Data Science,7.97,81.3,76.7,No,No,No,Yes,Yes,Yes,No,10,6,6,No,5,109,1,100,78,8.5,Yes
+1672,Female,20,BSc CS,7.48,72.7,85.8,No,No,Yes,Yes,Yes,No,No,7,10,3,Yes,6,270,0,100,90,9.5,Yes
+1673,Female,24,BSc CS,7.38,61.2,79.2,No,No,No,No,Yes,Yes,Yes,8,10,0,Yes,6,262,0,97,88,9.3,Yes
+1674,Female,20,BCA,9.77,88.6,89.2,No,No,No,No,Yes,No,Yes,5,9,4,No,3,270,5,100,87,9.2,Yes
+1675,Male,24,BCA,7.97,60.2,91.5,Yes,Yes,Yes,No,No,Yes,No,10,5,4,No,4,234,5,100,75,8.2,Yes
+1676,Female,20,BCA,9.34,87.2,81.9,Yes,Yes,Yes,No,Yes,Yes,Yes,8,8,6,Yes,6,65,4,100,84,9.0,Yes
+1677,Male,23,BSc CS,9.24,95.3,85.0,Yes,No,Yes,No,No,Yes,Yes,10,6,0,Yes,3,63,3,100,78,8.5,Yes
+1678,Female,24,BCA,9.17,67.9,61.9,No,No,Yes,Yes,No,Yes,Yes,5,8,4,Yes,1,107,0,100,84,9.0,Yes
+1679,Female,22,BCA Data Science,8.72,72.0,67.3,Yes,No,No,No,Yes,No,Yes,4,7,6,No,3,51,2,100,81,8.8,Yes
+1680,Male,21,BSc CS,7.37,92.2,71.4,Yes,No,No,Yes,No,No,Yes,5,10,1,Yes,4,4,1,90,84,9.0,Yes
+1681,Male,23,BCA Data Science,7.52,61.5,82.7,Yes,No,No,No,Yes,No,Yes,5,8,1,Yes,2,56,1,88,76,8.3,Yes
+1682,Female,24,BSc CS,6.82,83.8,94.5,No,No,Yes,Yes,No,Yes,No,4,9,6,Yes,3,23,4,100,87,9.2,Yes
+1683,Female,23,BCA,7.76,66.0,60.6,Yes,Yes,No,Yes,Yes,No,No,7,10,4,No,1,0,2,94,86,9.2,Yes
+1684,Female,22,BSc CS,6.05,84.9,73.9,Yes,No,No,Yes,Yes,Yes,Yes,10,5,1,Yes,5,48,5,92,70,7.8,Yes
+1685,Male,21,BCA Data Science,5.95,68.6,67.0,No,No,No,No,Yes,No,No,6,9,1,Yes,5,197,5,83,76,8.3,Yes
+1686,Female,24,BCA,5.56,84.1,91.7,Yes,Yes,No,No,Yes,No,No,10,6,1,No,3,109,3,74,62,7.2,No
+1687,Male,22,BCA,6.01,70.6,89.2,No,No,Yes,No,No,No,No,9,4,5,No,6,265,2,98,70,7.8,Yes
+1688,Female,24,BCA Data Science,8.26,96.7,64.8,Yes,No,Yes,Yes,No,Yes,No,6,7,3,Yes,6,258,1,100,81,8.8,Yes
+1689,Male,24,BSc CS,6.11,85.9,89.5,Yes,No,Yes,Yes,No,Yes,Yes,6,5,0,Yes,5,115,5,80,63,7.2,Yes
+1690,Female,21,BSc CS,7.32,67.7,61.9,No,No,No,No,No,No,No,5,9,2,Yes,0,128,5,86,78,8.5,Yes
+1691,Female,20,BCA Data Science,8.14,96.5,62.3,No,Yes,Yes,No,Yes,Yes,No,10,5,5,No,3,99,1,100,75,8.2,Yes
+1692,Female,21,BSc CS,9.64,70.5,93.9,Yes,Yes,Yes,No,Yes,No,No,4,9,0,No,4,52,5,93,82,8.8,Yes
+1693,Female,22,BCA Data Science,7.38,91.2,80.6,No,Yes,Yes,No,No,Yes,No,10,6,0,No,3,299,1,85,69,7.8,Yes
+1694,Female,22,BCA,7.75,63.4,87.8,No,Yes,No,No,No,Yes,Yes,10,10,2,No,2,260,2,94,86,9.2,Yes
+1695,Female,20,BSc CS,5.86,63.8,90.6,Yes,No,Yes,No,No,Yes,No,8,8,6,No,4,265,5,94,80,8.7,Yes
+1696,Male,23,BSc CS,5.96,91.9,84.4,Yes,Yes,Yes,Yes,No,No,No,9,9,0,No,5,225,3,75,72,8.0,Yes
+1697,Female,22,BCA Data Science,8.7,76.4,94.5,Yes,Yes,Yes,No,Yes,No,No,10,4,5,No,6,129,2,100,72,8.0,Yes
+1698,Male,22,BCA,6.69,89.8,72.3,No,Yes,Yes,No,No,No,Yes,10,7,6,Yes,2,180,4,100,81,8.8,Yes
+1699,Female,20,BCA Data Science,5.94,87.4,84.3,No,No,Yes,No,Yes,No,No,6,6,6,No,2,81,1,87,70,7.8,Yes
+1700,Female,24,BCA,6.32,71.8,79.2,No,Yes,No,Yes,Yes,Yes,Yes,9,8,5,No,6,134,1,100,84,9.0,Yes
+1701,Male,21,BCA Data Science,7.21,95.0,63.9,No,Yes,No,Yes,No,Yes,Yes,8,5,5,No,0,253,1,93,70,7.8,Yes
+1702,Female,22,BCA,7.39,90.8,65.5,No,Yes,Yes,No,No,No,Yes,7,5,6,No,5,294,3,100,75,8.2,Yes
+1703,Female,24,BCA,7.35,73.9,95.2,Yes,No,No,Yes,Yes,No,Yes,10,8,4,Yes,0,259,5,100,84,9.0,Yes
+1704,Female,24,BSc CS,5.95,91.4,68.7,No,Yes,No,No,Yes,No,No,7,8,3,Yes,1,11,4,85,75,8.2,Yes
+1705,Male,23,BCA,5.75,73.2,93.0,Yes,Yes,No,Yes,No,No,Yes,9,8,3,No,5,68,3,86,75,8.2,Yes
+1706,Male,21,BCA Data Science,7.82,85.6,72.6,No,Yes,No,Yes,Yes,No,Yes,10,4,4,Yes,4,211,5,100,72,8.0,Yes
+1707,Female,21,BCA,9.71,89.4,97.6,Yes,Yes,No,Yes,No,Yes,Yes,7,8,5,No,6,208,3,100,84,9.0,Yes
+1708,Female,20,BSc CS,6.29,71.8,66.7,No,No,No,Yes,Yes,No,No,5,5,2,Yes,2,231,0,82,64,7.3,No
+1709,Male,24,BCA,5.76,81.2,85.9,Yes,Yes,Yes,Yes,Yes,No,No,6,4,6,No,6,35,1,94,68,7.7,Yes
+1710,Male,22,BSc CS,6.28,68.3,73.1,Yes,No,Yes,No,Yes,Yes,No,4,8,0,Yes,6,159,2,80,72,8.0,Yes
+1711,Male,21,BCA,6.28,79.7,94.2,No,Yes,Yes,No,No,No,No,4,9,4,Yes,2,126,2,88,79,8.6,Yes
+1712,Female,23,BCA Data Science,6.31,75.4,73.6,No,Yes,Yes,No,No,Yes,No,6,5,3,Yes,2,218,3,88,67,7.6,Yes
+1713,Male,24,BCA Data Science,7.61,78.7,72.2,No,No,No,No,No,Yes,Yes,5,4,2,Yes,5,160,5,98,70,7.8,Yes
+1714,Male,24,BSc CS,5.7,71.5,67.2,Yes,No,Yes,No,Yes,Yes,Yes,7,5,1,No,0,104,3,63,52,6.3,No
+1715,Male,24,BSc CS,8.14,61.7,74.5,Yes,No,Yes,Yes,No,Yes,No,10,5,2,No,0,79,1,93,70,7.8,Yes
+1716,Male,23,BCA Data Science,6.61,95.0,85.9,No,Yes,No,No,Yes,No,No,7,6,6,Yes,6,249,2,100,78,8.5,Yes
+1717,Female,22,BSc CS,8.49,77.1,85.2,Yes,Yes,Yes,Yes,Yes,No,Yes,5,8,2,Yes,5,131,5,100,84,9.0,Yes
+1718,Male,23,BCA Data Science,6.73,92.5,69.9,Yes,No,Yes,Yes,No,Yes,Yes,8,4,3,No,0,57,1,81,60,7.0,Yes
+1719,Male,22,BCA,5.86,86.4,62.6,No,No,No,Yes,No,Yes,Yes,10,5,5,No,0,291,0,86,66,7.5,Yes
+1720,Female,20,BCA Data Science,9.46,73.3,67.6,Yes,No,No,Yes,No,Yes,Yes,5,9,1,No,5,224,0,99,86,9.2,Yes
+1721,Male,20,BCA,8.09,70.9,66.1,No,Yes,Yes,Yes,No,Yes,Yes,9,6,2,Yes,1,53,5,100,78,8.5,Yes
+1722,Female,24,BCA,5.51,62.2,74.7,Yes,Yes,Yes,Yes,Yes,No,No,6,9,4,No,3,121,5,78,73,8.1,Yes
+1723,Female,21,BCA Data Science,6.98,97.5,77.3,Yes,No,No,Yes,Yes,No,Yes,7,6,1,No,5,10,3,83,67,7.6,Yes
+1724,Female,22,BCA,7.48,87.0,80.6,Yes,No,Yes,No,Yes,No,No,7,7,5,No,3,198,3,99,80,8.7,Yes
+1725,Male,24,BSc CS,8.36,65.1,80.1,Yes,Yes,Yes,Yes,No,No,No,6,9,2,Yes,3,72,3,100,87,9.2,Yes
+1726,Male,22,BSc CS,7.44,94.4,96.3,No,Yes,Yes,Yes,No,Yes,No,8,7,1,No,0,105,3,79,68,7.7,Yes
+1727,Male,20,BCA Data Science,8.43,89.2,84.4,Yes,Yes,No,No,No,Yes,Yes,10,7,2,Yes,5,49,0,100,81,8.8,Yes
+1728,Female,21,BCA,9.46,93.0,72.6,Yes,No,No,Yes,Yes,Yes,No,10,4,2,No,4,228,3,100,72,8.0,Yes
+1729,Male,20,BCA Data Science,6.8,90.5,66.1,Yes,Yes,No,Yes,No,Yes,No,9,6,5,Yes,0,75,3,100,78,8.5,Yes
+1730,Male,21,BSc CS,9.28,78.0,78.1,Yes,No,No,Yes,No,Yes,No,9,8,2,No,0,189,0,100,84,9.0,Yes
+1731,Female,24,BCA Data Science,6.79,75.0,65.7,Yes,No,No,Yes,No,No,Yes,8,8,3,Yes,2,129,1,96,81,8.8,Yes
+1732,Male,21,BSc CS,7.61,94.4,62.0,Yes,No,No,No,No,No,Yes,6,9,6,No,5,41,2,100,87,9.2,Yes
+1733,Female,22,BSc CS,5.55,81.8,71.5,Yes,No,No,No,Yes,No,No,6,6,6,No,3,175,1,86,69,7.8,Yes
+1734,Male,20,BCA Data Science,6.33,70.7,63.2,No,Yes,No,Yes,Yes,Yes,Yes,5,4,1,No,0,78,4,64,50,6.2,No
+1735,Male,20,BCA,5.54,60.5,90.7,Yes,Yes,No,No,Yes,Yes,Yes,9,5,1,Yes,1,46,5,78,61,7.1,Yes
+1736,Male,24,BCA Data Science,8.9,68.9,61.9,Yes,No,No,Yes,No,Yes,No,8,9,1,No,2,31,3,95,84,9.0,Yes
+1737,Female,21,BCA,5.84,97.0,70.0,Yes,Yes,Yes,Yes,Yes,No,Yes,5,7,5,No,4,211,4,84,71,7.9,Yes
+1738,Female,20,BSc CS,6.58,73.1,69.1,Yes,No,No,Yes,Yes,Yes,Yes,7,6,5,Yes,4,220,0,100,78,8.5,Yes
+1739,Male,21,BSc CS,8.4,72.1,89.3,No,Yes,No,No,No,No,No,6,7,2,No,2,279,5,91,75,8.2,Yes
+1740,Female,23,BSc CS,6.23,86.3,75.6,No,No,No,No,No,No,Yes,5,9,6,No,3,12,1,89,80,8.7,Yes
+1741,Female,21,BCA,6.14,73.9,76.5,Yes,Yes,Yes,Yes,Yes,Yes,No,7,5,2,No,1,11,3,73,58,6.8,Yes
+1742,Female,24,BCA,9.07,92.4,70.6,Yes,No,No,No,No,Yes,No,9,4,2,Yes,0,165,5,100,72,8.0,Yes
+1743,Male,24,BCA,6.11,79.7,78.8,Yes,No,No,Yes,No,Yes,No,9,6,5,No,4,62,4,94,74,8.2,Yes
+1744,Female,22,BSc CS,6.97,74.2,86.2,Yes,No,No,Yes,Yes,No,No,7,5,1,No,5,119,2,83,64,7.3,Yes
+1745,Female,20,BSc CS,6.97,90.2,86.5,Yes,No,Yes,Yes,Yes,No,No,4,6,4,Yes,3,75,4,95,75,8.2,Yes
+1746,Male,22,BCA,7.61,82.9,93.9,No,Yes,No,No,Yes,No,Yes,6,10,6,Yes,3,126,1,100,90,9.5,Yes
+1747,Male,23,BCA,9.05,78.3,65.6,No,No,No,No,Yes,Yes,Yes,6,9,0,Yes,4,258,2,100,87,9.2,Yes
+1748,Male,24,BCA,8.51,92.4,71.3,Yes,Yes,No,Yes,Yes,No,Yes,6,7,6,Yes,3,195,4,100,81,8.8,Yes
+1749,Male,22,BSc CS,8.76,64.1,70.4,No,Yes,No,No,Yes,Yes,No,4,4,0,No,4,244,2,86,63,7.2,Yes
+1750,Male,23,BCA Data Science,7.11,61.0,76.5,No,No,Yes,No,Yes,No,No,8,10,4,Yes,4,28,5,100,90,9.5,Yes
+1751,Male,24,BCA,9.49,65.3,63.9,Yes,Yes,Yes,No,No,No,Yes,7,6,6,Yes,3,205,4,100,78,8.5,Yes
+1752,Male,20,BCA Data Science,8.26,75.0,65.9,Yes,Yes,No,Yes,Yes,No,Yes,5,4,5,Yes,0,115,3,100,72,8.0,Yes
+1753,Male,24,BCA Data Science,8.76,96.1,96.3,Yes,No,No,No,No,Yes,No,7,4,5,No,4,34,0,100,72,8.0,Yes
+1754,Female,21,BCA Data Science,6.4,82.1,60.3,Yes,No,Yes,No,Yes,Yes,Yes,9,9,4,No,2,284,2,89,80,8.7,Yes
+1755,Male,23,BCA Data Science,8.74,69.7,67.4,No,No,Yes,No,No,Yes,No,8,9,5,No,1,94,0,100,87,9.2,Yes
+1756,Male,21,BCA Data Science,8.69,93.2,67.6,No,Yes,No,No,No,Yes,Yes,8,10,2,Yes,4,12,2,100,90,9.5,Yes
+1757,Male,24,BCA Data Science,9.2,67.8,96.0,No,No,No,No,Yes,No,No,8,8,2,Yes,0,54,0,100,84,9.0,Yes
+1758,Female,23,BSc CS,9.19,96.0,95.3,No,No,No,Yes,Yes,Yes,No,5,9,1,No,5,190,0,97,85,9.1,Yes
+1759,Female,22,BCA Data Science,5.6,89.3,94.1,No,Yes,No,No,Yes,Yes,Yes,7,5,0,Yes,0,120,3,68,55,6.6,No
+1760,Male,20,BCA,8.52,78.2,87.8,Yes,Yes,Yes,No,No,Yes,Yes,7,7,6,No,3,89,0,100,81,8.8,Yes
+1761,Male,22,BCA,8.55,87.3,67.7,No,Yes,No,Yes,Yes,No,Yes,9,4,6,No,4,250,1,100,72,8.0,Yes
+1762,Male,23,BSc CS,5.88,74.0,91.2,Yes,No,No,Yes,No,No,No,5,8,3,No,3,177,2,75,69,7.8,Yes
+1763,Male,24,BCA Data Science,7.83,73.7,76.4,No,Yes,No,No,No,No,Yes,4,6,4,Yes,4,174,4,100,78,8.5,Yes
+1764,Female,23,BCA Data Science,9.7,90.1,91.3,No,Yes,No,Yes,Yes,Yes,Yes,6,8,5,Yes,5,116,5,100,84,9.0,Yes
+1765,Male,24,BCA Data Science,6.9,91.8,74.2,No,No,Yes,No,No,Yes,Yes,9,9,3,Yes,6,96,5,100,87,9.2,Yes
+1766,Male,20,BCA,7.63,94.8,86.4,No,Yes,No,No,Yes,Yes,Yes,4,4,0,No,0,106,1,69,53,6.4,No
+1767,Female,20,BCA,7.45,64.5,95.9,No,Yes,No,No,No,No,Yes,6,7,4,No,5,21,5,97,79,8.6,Yes
+1768,Male,20,BCA Data Science,6.87,61.2,86.6,No,Yes,No,No,No,Yes,No,4,7,6,Yes,3,129,4,100,81,8.8,Yes
+1769,Male,21,BSc CS,8.61,87.2,95.0,No,No,No,Yes,No,Yes,No,6,8,6,No,1,210,0,100,84,9.0,Yes
+1770,Male,20,BCA,9.21,89.7,95.6,No,Yes,Yes,No,No,No,Yes,6,8,0,No,1,231,2,87,76,8.3,Yes
+1771,Female,21,BCA Data Science,8.08,76.2,86.1,Yes,Yes,No,No,Yes,Yes,No,10,9,6,Yes,6,192,0,100,87,9.2,Yes
+1772,Female,20,BSc CS,6.96,86.0,92.1,Yes,No,Yes,Yes,Yes,Yes,Yes,9,8,4,Yes,3,254,2,100,84,9.0,Yes
+1773,Female,24,BCA Data Science,7.76,86.4,84.1,Yes,No,No,Yes,No,No,No,4,4,0,No,5,183,3,80,60,7.0,Yes
+1774,Male,21,BCA Data Science,9.4,93.3,64.6,Yes,Yes,Yes,Yes,No,No,No,7,4,6,Yes,4,211,0,100,72,8.0,Yes
+1775,Male,23,BCA,6.13,65.1,86.7,Yes,No,Yes,Yes,Yes,No,Yes,6,10,1,No,1,245,1,67,70,7.8,Yes
+1776,Female,23,BCA Data Science,7.56,63.8,74.7,Yes,Yes,Yes,Yes,Yes,No,Yes,8,5,1,No,6,185,1,92,70,7.8,Yes
+1777,Female,23,BCA Data Science,8.74,61.6,72.2,No,Yes,Yes,No,No,No,Yes,9,5,3,No,5,80,1,100,75,8.2,Yes
+1778,Female,22,BCA,7.36,61.2,62.5,Yes,Yes,Yes,No,No,No,No,7,9,6,No,2,274,4,100,87,9.2,Yes
+1779,Male,22,BCA,7.7,74.7,93.1,Yes,No,No,Yes,No,No,Yes,6,9,2,No,6,147,4,93,82,8.8,Yes
+1780,Female,24,BSc CS,9.4,81.5,73.2,No,Yes,No,No,No,No,No,9,9,1,Yes,6,151,1,100,87,9.2,Yes
+1781,Female,24,BCA,6.88,90.3,82.1,Yes,Yes,No,Yes,Yes,No,Yes,9,10,3,No,1,200,3,87,82,8.8,Yes
+1782,Female,21,BCA,7.81,65.6,83.0,No,Yes,No,No,Yes,Yes,Yes,10,6,3,No,4,298,2,100,78,8.5,Yes
+1783,Male,24,BSc CS,5.72,76.3,97.3,Yes,No,No,No,No,Yes,Yes,5,4,2,Yes,0,35,2,73,55,6.6,No
+1784,Male,24,BSc CS,6.65,89.8,95.2,No,Yes,Yes,Yes,Yes,Yes,No,8,9,2,No,3,123,1,83,76,8.3,Yes
+1785,Female,23,BCA Data Science,7.95,70.1,81.0,Yes,Yes,Yes,No,Yes,Yes,No,5,8,4,Yes,1,46,4,100,84,9.0,Yes
+1786,Male,21,BCA Data Science,5.91,92.1,68.4,No,Yes,Yes,Yes,No,Yes,Yes,5,9,2,No,4,197,3,73,70,7.8,Yes
+1787,Female,23,BSc CS,9.14,75.5,76.9,Yes,No,No,Yes,No,Yes,No,7,10,4,No,2,10,3,100,90,9.5,Yes
+1788,Female,20,BSc CS,6.38,65.5,62.9,No,Yes,No,Yes,Yes,No,No,7,6,1,No,1,194,4,71,60,7.0,No
+1789,Female,22,BCA Data Science,9.52,69.3,86.5,No,Yes,No,No,No,No,Yes,7,7,5,No,3,45,3,100,81,8.8,Yes
+1790,Male,22,BCA Data Science,6.66,94.6,69.9,Yes,Yes,Yes,Yes,Yes,No,No,4,10,1,Yes,5,81,0,85,81,8.8,Yes
+1791,Male,24,BSc CS,7.76,69.7,65.7,Yes,No,No,Yes,Yes,No,No,5,8,0,Yes,6,47,4,94,80,8.7,Yes
+1792,Male,24,BCA Data Science,8.87,93.1,92.9,Yes,No,No,No,Yes,Yes,Yes,10,5,4,Yes,0,51,2,100,75,8.2,Yes
+1793,Female,21,BCA Data Science,8.85,81.0,74.0,Yes,Yes,Yes,Yes,Yes,No,Yes,10,6,4,Yes,4,258,0,100,78,8.5,Yes
+1794,Male,22,BCA,5.71,65.9,65.0,No,No,No,Yes,No,Yes,Yes,9,5,1,Yes,0,193,1,77,61,7.1,No
+1795,Male,24,BCA,7.77,78.6,88.7,No,No,No,No,No,No,Yes,8,10,3,Yes,6,18,1,100,90,9.5,Yes
+1796,Male,22,BCA,9.12,64.4,94.4,No,No,No,No,Yes,No,No,5,10,0,Yes,3,75,3,98,88,9.3,Yes
+1797,Male,22,BCA,6.55,60.6,68.6,No,No,No,No,No,No,No,5,7,1,No,0,125,1,66,60,7.0,No
+1798,Male,20,BCA Data Science,5.73,77.7,74.7,No,Yes,No,No,No,Yes,No,4,6,2,Yes,2,259,1,75,63,7.2,No
+1799,Male,23,BCA,8.7,81.3,62.3,Yes,No,Yes,No,No,No,No,6,8,2,No,2,26,4,93,79,8.6,Yes
+1800,Female,21,BCA Data Science,7.36,79.5,85.3,Yes,Yes,No,No,No,No,Yes,5,10,1,Yes,4,196,2,90,84,9.0,Yes
+1801,Male,23,BCA Data Science,5.69,60.5,65.1,No,Yes,No,Yes,No,No,Yes,4,4,1,Yes,2,247,0,71,54,6.5,No
+1802,Male,23,BCA,9.48,78.8,63.0,No,No,No,No,No,No,No,8,5,5,No,6,125,1,100,75,8.2,Yes
+1803,Female,23,BSc CS,6.67,95.7,71.4,No,Yes,No,No,Yes,Yes,Yes,10,10,1,Yes,3,78,0,93,85,9.1,Yes
+1804,Female,22,BCA Data Science,7.22,81.5,71.4,Yes,Yes,No,Yes,No,Yes,No,7,10,3,Yes,3,242,0,99,89,9.4,Yes
+1805,Female,20,BCA Data Science,6.82,78.5,97.9,No,Yes,No,No,Yes,No,Yes,8,10,1,No,1,167,4,76,75,8.2,Yes
+1806,Female,24,BCA Data Science,5.85,90.3,60.3,No,No,Yes,Yes,Yes,Yes,No,5,4,1,No,6,187,5,72,55,6.6,No
+1807,Male,24,BCA,5.67,93.9,72.5,Yes,Yes,Yes,Yes,Yes,Yes,No,10,7,0,No,4,149,4,73,64,7.3,Yes
+1808,Female,24,BCA,6.1,77.6,92.4,Yes,Yes,No,Yes,No,Yes,No,10,6,5,Yes,5,242,3,100,78,8.5,Yes
+1809,Male,20,BCA,6.76,86.8,75.2,Yes,No,No,Yes,Yes,No,Yes,9,5,0,Yes,0,300,0,82,64,7.3,Yes
+1810,Male,22,BCA Data Science,6.04,87.5,70.7,No,No,Yes,No,No,No,Yes,9,9,5,No,5,107,3,96,84,9.0,Yes
+1811,Female,24,BSc CS,7.18,73.1,61.9,No,No,Yes,No,No,No,No,7,5,6,No,5,216,5,100,75,8.2,Yes
+1812,Male,23,BCA Data Science,6.29,93.0,66.2,No,No,Yes,No,No,Yes,Yes,5,5,4,No,2,103,5,80,63,7.2,Yes
+1813,Male,23,BSc CS,8.81,84.0,87.0,No,No,Yes,Yes,No,Yes,Yes,5,6,5,No,4,200,4,100,78,8.5,Yes
+1814,Male,22,BSc CS,8.94,77.3,87.3,No,No,Yes,No,No,Yes,No,8,9,6,Yes,3,213,3,100,87,9.2,Yes
+1815,Female,20,BCA Data Science,6.46,70.1,93.9,Yes,Yes,No,No,No,Yes,Yes,4,5,6,No,1,203,0,85,66,7.5,Yes
+1816,Female,21,BSc CS,8.95,70.4,90.9,No,Yes,No,Yes,No,Yes,No,10,4,6,Yes,3,287,5,100,72,8.0,Yes
+1817,Male,21,BCA,8.32,60.5,76.3,No,Yes,No,Yes,Yes,Yes,No,5,9,2,No,3,82,3,90,81,8.8,Yes
+1818,Female,20,BSc CS,5.92,95.4,71.8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,10,6,No,1,58,3,93,85,9.1,Yes
+1819,Male,24,BCA Data Science,8.79,89.6,77.7,Yes,No,No,Yes,No,Yes,No,5,7,6,Yes,4,128,5,100,81,8.8,Yes
+1820,Female,24,BSc CS,9.77,66.2,73.0,Yes,No,No,Yes,No,No,No,4,10,4,No,1,85,1,100,90,9.5,Yes
+1821,Female,22,BCA,8.5,97.1,88.3,No,No,No,No,No,Yes,Yes,4,7,1,Yes,4,181,0,98,79,8.6,Yes
+1822,Female,21,BCA,8.72,60.3,72.0,No,Yes,Yes,Yes,Yes,Yes,No,7,8,4,No,0,16,5,99,83,8.9,Yes
+1823,Male,23,BCA,7.81,76.2,61.5,Yes,Yes,No,Yes,No,No,Yes,6,6,6,No,0,271,2,98,76,8.3,Yes
+1824,Male,24,BCA Data Science,8.68,75.5,61.0,No,No,Yes,Yes,Yes,Yes,No,4,4,2,No,2,63,1,89,65,7.4,Yes
+1825,Male,20,BSc CS,6.5,70.5,92.0,Yes,No,No,Yes,No,Yes,No,7,4,5,No,2,26,1,90,66,7.5,Yes
+1826,Male,21,BCA Data Science,5.52,93.9,61.6,No,No,Yes,No,Yes,Yes,Yes,6,5,1,Yes,5,8,3,80,63,7.2,Yes
+1827,Female,21,BCA,8.67,91.2,85.9,Yes,No,Yes,No,Yes,No,Yes,4,7,1,No,1,270,2,83,70,7.8,Yes
+1828,Male,24,BCA Data Science,9.69,75.6,82.0,No,Yes,Yes,No,No,No,Yes,4,7,4,Yes,5,129,5,100,81,8.8,Yes
+1829,Male,21,BSc CS,9.0,82.0,96.8,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,7,1,Yes,2,57,4,100,81,8.8,Yes
+1830,Male,21,BCA,5.98,86.5,75.7,No,Yes,No,Yes,Yes,Yes,No,6,7,3,No,3,103,5,77,67,7.6,No
+1831,Female,24,BCA,7.02,93.1,92.6,Yes,No,No,No,No,Yes,No,4,7,3,Yes,0,30,5,86,72,8.0,Yes
+1832,Male,22,BCA,6.38,64.2,70.9,No,No,Yes,No,Yes,No,Yes,8,7,2,No,5,114,3,85,72,8.0,Yes
+1833,Female,24,BCA,9.64,70.2,78.3,No,Yes,Yes,Yes,No,No,Yes,8,8,5,Yes,0,137,5,100,84,9.0,Yes
+1834,Male,21,BCA Data Science,8.47,70.3,85.0,No,No,Yes,Yes,Yes,Yes,No,6,10,1,Yes,5,254,4,100,90,9.5,Yes
+1835,Male,23,BSc CS,6.91,86.2,81.0,No,Yes,No,Yes,Yes,Yes,No,9,10,3,No,5,139,4,95,87,9.2,Yes
+1836,Female,23,BCA Data Science,9.12,82.9,81.4,Yes,No,No,Yes,Yes,No,Yes,10,6,2,No,6,123,4,100,78,8.5,Yes
+1837,Male,21,BSc CS,7.35,81.4,86.2,Yes,Yes,Yes,No,Yes,Yes,No,7,8,5,Yes,0,280,3,100,84,9.0,Yes
+1838,Male,20,BCA,6.42,74.1,61.4,Yes,No,Yes,No,No,Yes,Yes,6,5,4,Yes,0,128,4,89,68,7.7,Yes
+1839,Female,22,BCA,8.46,80.6,85.0,Yes,No,Yes,No,No,Yes,Yes,8,8,1,No,0,218,5,87,76,8.3,Yes
+1840,Female,20,BSc CS,7.89,66.2,88.1,Yes,No,Yes,Yes,Yes,Yes,Yes,9,5,1,Yes,1,67,2,97,73,8.1,Yes
+1841,Male,23,BCA Data Science,7.43,83.5,61.2,Yes,No,No,No,Yes,Yes,Yes,7,7,0,Yes,2,17,4,87,73,8.1,Yes
+1842,Female,22,BCA,5.86,66.0,62.8,No,Yes,No,Yes,Yes,No,No,7,5,6,Yes,3,217,1,100,75,8.2,Yes
+1843,Male,24,BCA,6.62,68.1,87.9,Yes,Yes,No,No,No,No,Yes,10,8,0,Yes,0,117,5,82,73,8.1,Yes
+1844,Male,22,BSc CS,7.2,84.7,87.1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,10,4,Yes,1,275,4,100,90,9.5,Yes
+1845,Female,20,BCA,7.81,69.9,72.6,Yes,Yes,Yes,No,No,Yes,Yes,10,10,1,Yes,4,75,4,100,90,9.5,Yes
+1846,Male,20,BCA,8.6,80.8,88.0,No,No,Yes,No,No,Yes,Yes,10,4,6,Yes,6,12,5,100,72,8.0,Yes
+1847,Female,23,BSc CS,6.21,88.2,84.2,Yes,Yes,Yes,No,Yes,No,No,4,10,5,Yes,5,76,2,97,88,9.3,Yes
+1848,Male,22,BCA,6.0,94.7,84.5,No,No,Yes,Yes,Yes,No,No,7,8,6,Yes,1,89,2,98,82,8.8,Yes
+1849,Male,23,BCA,7.52,79.3,77.8,Yes,Yes,Yes,No,Yes,No,No,9,6,0,No,5,264,2,88,70,7.8,Yes
+1850,Male,23,BCA Data Science,7.92,69.0,65.7,No,Yes,No,No,Yes,No,No,10,5,6,No,5,21,4,100,75,8.2,Yes
+1851,Male,24,BSc CS,7.25,69.1,82.9,No,No,Yes,Yes,Yes,Yes,Yes,6,10,0,Yes,6,200,2,92,85,9.1,Yes
+1852,Male,21,BSc CS,8.68,69.9,87.9,Yes,No,No,Yes,Yes,No,Yes,8,9,0,No,2,124,1,89,80,8.7,Yes
+1853,Male,20,BCA,7.22,85.8,87.6,No,No,No,Yes,Yes,Yes,No,10,9,1,No,5,270,3,91,81,8.8,Yes
+1854,Female,22,BSc CS,9.63,69.6,77.6,Yes,No,No,No,Yes,No,No,10,6,6,Yes,1,206,1,100,78,8.5,Yes
+1855,Male,22,BCA Data Science,8.44,71.2,96.5,Yes,Yes,No,No,No,No,No,10,6,4,Yes,6,115,5,100,78,8.5,Yes
+1856,Male,21,BCA Data Science,7.89,79.0,66.8,No,No,Yes,No,Yes,No,Yes,6,9,5,Yes,6,149,1,100,87,9.2,Yes
+1857,Male,24,BCA Data Science,9.67,91.3,67.4,No,No,Yes,No,Yes,Yes,Yes,4,4,5,No,4,238,5,100,72,8.0,Yes
+1858,Female,22,BCA,8.11,67.5,82.5,Yes,No,Yes,Yes,No,No,Yes,4,7,6,Yes,5,39,0,100,81,8.8,Yes
+1859,Male,21,BSc CS,5.91,96.5,92.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,10,3,Yes,4,65,4,89,83,8.9,Yes
+1860,Female,24,BCA Data Science,7.12,77.9,86.7,No,No,Yes,No,Yes,Yes,No,6,8,6,No,1,29,0,94,80,8.7,Yes
+1861,Male,21,BCA Data Science,8.98,93.1,84.3,No,Yes,No,Yes,Yes,No,No,6,10,0,Yes,6,208,1,100,90,9.5,Yes
+1862,Female,20,BCA,8.11,79.2,62.8,No,No,No,No,No,Yes,Yes,6,4,5,No,1,266,4,98,70,7.8,Yes
+1863,Male,22,BCA,8.21,89.6,72.8,No,No,No,No,Yes,Yes,Yes,9,5,3,Yes,0,98,0,100,75,8.2,Yes
+1864,Male,23,BSc CS,7.21,83.1,91.1,Yes,No,Yes,No,Yes,No,Yes,4,5,6,Yes,2,174,2,100,75,8.2,Yes
+1865,Male,22,BCA,7.87,76.6,64.1,No,No,Yes,Yes,No,No,Yes,4,5,2,Yes,6,270,3,100,75,8.2,Yes
+1866,Male,24,BCA,6.52,92.8,94.7,Yes,No,Yes,Yes,Yes,No,Yes,4,4,5,No,3,9,4,86,63,7.2,Yes
+1867,Female,24,BSc CS,9.77,82.1,62.5,No,No,Yes,Yes,No,No,Yes,7,10,4,No,6,293,3,100,90,9.5,Yes
+1868,Female,24,BSc CS,8.1,82.8,87.7,No,Yes,No,Yes,No,No,Yes,5,6,4,Yes,2,10,4,100,78,8.5,Yes
+1869,Female,21,BCA,8.91,92.6,96.2,Yes,Yes,Yes,Yes,No,Yes,No,7,8,4,Yes,3,11,4,100,84,9.0,Yes
+1870,Male,24,BCA Data Science,8.25,77.4,75.9,Yes,No,Yes,Yes,No,Yes,Yes,6,9,5,No,5,124,4,100,87,9.2,Yes
+1871,Male,23,BSc CS,9.09,97.3,91.5,No,No,Yes,Yes,No,No,Yes,8,10,6,Yes,3,183,4,100,90,9.5,Yes
+1872,Female,24,BCA,6.64,89.8,74.5,No,No,No,Yes,Yes,Yes,No,10,7,0,Yes,6,97,4,95,78,8.5,Yes
+1873,Male,20,BCA Data Science,9.72,88.5,69.6,Yes,No,No,Yes,Yes,No,No,9,4,6,Yes,6,84,3,100,72,8.0,Yes
+1874,Male,23,BSc CS,8.37,79.5,82.8,No,Yes,Yes,Yes,No,Yes,Yes,4,9,1,No,6,13,0,90,81,8.8,Yes
+1875,Female,21,BSc CS,5.74,84.6,63.0,Yes,No,Yes,No,No,Yes,Yes,10,8,3,No,5,73,0,87,76,8.3,Yes
+1876,Male,22,BCA Data Science,6.7,60.6,78.8,No,No,No,Yes,Yes,No,Yes,9,7,6,No,5,66,4,100,81,8.8,Yes
+1877,Male,23,BCA Data Science,7.89,63.5,93.2,No,No,Yes,Yes,Yes,No,Yes,7,8,5,No,0,99,1,97,82,8.8,Yes
+1878,Male,20,BSc CS,5.88,65.0,95.4,No,Yes,Yes,No,No,Yes,No,8,4,3,Yes,1,84,5,87,64,7.3,Yes
+1879,Female,22,BCA,6.2,74.4,68.3,No,Yes,No,Yes,No,No,No,7,4,1,Yes,3,38,5,83,61,7.1,No
+1880,Female,20,BCA,8.05,87.6,66.4,No,Yes,Yes,No,No,Yes,Yes,7,6,2,Yes,1,231,1,98,76,8.3,Yes
+1881,Female,21,BSc CS,7.52,64.1,65.4,No,No,Yes,Yes,Yes,Yes,Yes,9,4,3,Yes,0,99,2,100,72,8.0,Yes
+1882,Female,20,BCA,7.85,87.9,78.7,No,Yes,No,Yes,Yes,Yes,Yes,8,9,2,No,0,173,1,86,78,8.5,Yes
+1883,Female,20,BCA,8.88,82.4,87.3,No,No,Yes,No,No,Yes,No,10,7,1,No,4,75,0,100,81,8.8,Yes
+1884,Female,20,BSc CS,7.82,63.2,91.9,Yes,Yes,No,No,Yes,Yes,No,9,10,5,No,0,171,4,100,90,9.5,Yes
+1885,Female,24,BCA Data Science,6.64,81.6,87.8,Yes,Yes,Yes,No,No,No,Yes,8,8,4,No,1,220,4,87,76,8.3,Yes
+1886,Female,23,BSc CS,9.6,64.8,94.9,No,Yes,Yes,No,No,No,Yes,6,8,2,Yes,5,43,2,100,84,9.0,Yes
+1887,Female,22,BCA,7.85,77.4,90.8,Yes,No,Yes,No,Yes,Yes,No,7,7,3,Yes,4,95,0,100,81,8.8,Yes
+1888,Male,23,BSc CS,8.86,96.6,62.4,No,No,No,No,Yes,No,No,9,10,1,Yes,2,264,4,100,90,9.5,Yes
+1889,Female,23,BSc CS,5.66,84.4,72.1,Yes,No,Yes,Yes,No,Yes,No,4,9,6,No,6,199,3,89,80,8.7,Yes
+1890,Female,21,BSc CS,5.66,85.6,66.4,Yes,No,No,No,No,Yes,No,7,8,3,Yes,1,180,4,83,73,8.1,Yes
+1891,Female,21,BCA,6.56,96.2,86.0,No,No,Yes,Yes,Yes,No,No,5,6,0,No,1,272,2,64,56,6.7,No
+1892,Female,24,BCA,7.17,96.8,66.5,Yes,Yes,No,No,Yes,Yes,Yes,8,9,3,No,2,13,5,89,80,8.7,Yes
+1893,Male,20,BCA,9.61,96.1,81.2,Yes,No,No,No,No,Yes,Yes,5,6,5,Yes,5,262,4,100,78,8.5,Yes
+1894,Female,22,BCA Data Science,8.08,66.3,67.6,No,Yes,No,Yes,Yes,No,Yes,7,6,0,No,2,232,0,82,67,7.6,Yes
+1895,Male,22,BCA Data Science,5.96,87.7,73.9,Yes,No,No,Yes,Yes,No,No,10,6,0,Yes,4,136,1,85,69,7.8,Yes
+1896,Female,24,BCA,5.65,73.4,77.4,Yes,No,Yes,Yes,No,Yes,No,6,5,1,No,3,83,1,67,55,6.6,No
+1897,Female,24,BCA,7.29,96.3,92.8,No,No,No,No,No,Yes,Yes,7,9,2,No,5,143,4,90,81,8.8,Yes
+1898,Female,22,BSc CS,9.65,90.3,72.1,No,Yes,Yes,No,Yes,Yes,No,6,4,1,Yes,0,21,1,100,72,8.0,Yes
+1899,Female,24,BSc CS,6.49,84.6,68.8,Yes,Yes,Yes,No,No,Yes,Yes,4,6,2,No,0,267,1,67,58,6.8,Yes
+1900,Female,21,BSc CS,6.28,63.8,71.5,No,No,No,Yes,No,Yes,No,7,9,6,No,5,149,5,98,85,9.1,Yes
+1901,Male,21,BCA Data Science,5.53,73.9,79.6,Yes,No,No,Yes,Yes,Yes,Yes,9,8,6,Yes,5,68,1,100,84,9.0,Yes
+1902,Female,20,BSc CS,8.11,93.4,84.5,No,Yes,Yes,No,Yes,Yes,Yes,7,6,3,Yes,1,283,3,100,78,8.5,Yes
+1903,Male,23,BCA Data Science,6.21,77.9,79.7,Yes,No,Yes,Yes,No,No,No,6,6,5,No,4,136,3,89,71,7.9,Yes
+1904,Male,23,BSc CS,9.21,95.8,72.4,Yes,No,No,Yes,Yes,No,Yes,8,10,1,No,0,240,1,93,85,9.1,Yes
+1905,Male,23,BCA,6.42,76.8,87.3,Yes,Yes,Yes,No,Yes,Yes,Yes,8,8,4,Yes,5,210,1,100,84,9.0,Yes
+1906,Female,23,BCA Data Science,8.33,82.2,84.3,Yes,Yes,Yes,Yes,No,No,Yes,10,8,6,Yes,2,284,2,100,84,9.0,Yes
+1907,Male,21,BCA,7.6,84.5,88.0,No,Yes,Yes,No,No,Yes,Yes,8,6,2,No,4,255,4,92,73,8.1,Yes
+1908,Male,21,BCA,8.1,92.2,82.1,Yes,Yes,Yes,No,Yes,Yes,Yes,6,5,5,No,6,269,3,100,75,8.2,Yes
+1909,Male,20,BCA,8.54,91.1,65.3,Yes,Yes,Yes,Yes,Yes,Yes,No,7,9,6,Yes,4,96,1,100,87,9.2,Yes
+1910,Male,22,BCA,8.77,78.6,90.8,No,No,No,Yes,No,No,Yes,5,9,4,No,0,20,1,96,84,9.0,Yes
+1911,Male,24,BSc CS,6.52,74.7,63.1,No,Yes,No,Yes,No,Yes,Yes,10,9,4,Yes,0,76,5,98,85,9.1,Yes
+1912,Female,20,BSc CS,7.0,60.9,71.5,No,No,Yes,Yes,Yes,Yes,No,7,4,1,No,0,58,1,74,56,6.7,No
+1913,Female,20,BCA Data Science,6.15,65.8,67.9,Yes,No,No,No,Yes,Yes,Yes,8,10,5,Yes,0,57,3,95,87,9.2,Yes
+1914,Male,23,BCA,9.43,61.6,83.5,Yes,No,Yes,No,No,Yes,Yes,8,9,5,Yes,0,150,4,100,87,9.2,Yes
+1915,Female,20,BSc CS,6.95,80.4,85.1,No,No,Yes,Yes,No,Yes,Yes,4,6,0,No,5,268,1,73,61,7.1,Yes
+1916,Female,21,BSc CS,8.36,97.3,65.7,No,No,Yes,Yes,Yes,No,No,9,7,6,Yes,6,0,1,100,81,8.8,Yes
+1917,Male,20,BCA,8.01,91.3,89.5,Yes,No,Yes,Yes,No,Yes,No,6,8,2,No,3,157,1,90,78,8.5,Yes
+1918,Male,21,BSc CS,9.55,93.7,89.6,Yes,Yes,No,Yes,No,Yes,No,8,5,3,Yes,4,253,2,100,75,8.2,Yes
+1919,Male,20,BCA Data Science,8.16,76.8,87.4,Yes,No,No,Yes,No,Yes,Yes,5,10,2,Yes,2,163,2,97,88,9.3,Yes
+1920,Female,24,BSc CS,8.52,92.9,61.2,Yes,Yes,Yes,No,No,No,No,6,7,6,No,4,33,2,100,81,8.8,Yes
+1921,Male,24,BCA Data Science,8.85,73.2,70.8,Yes,Yes,No,No,Yes,Yes,No,7,7,0,Yes,0,284,0,94,77,8.4,Yes
+1922,Male,22,BCA,5.67,61.0,94.6,No,Yes,Yes,No,No,No,Yes,7,5,3,Yes,4,6,4,89,68,7.7,Yes
+1923,Male,22,BCA Data Science,5.96,82.5,93.0,Yes,No,Yes,No,Yes,Yes,Yes,7,7,0,Yes,0,236,5,71,63,7.2,Yes
+1924,Female,24,BSc CS,9.67,90.9,70.9,No,No,No,Yes,No,Yes,Yes,9,5,0,Yes,4,222,1,100,75,8.2,Yes
+1925,Female,22,BCA,8.41,77.0,86.7,No,No,Yes,Yes,Yes,Yes,No,5,9,6,Yes,4,206,1,100,87,9.2,Yes
+1926,Female,24,BCA Data Science,9.33,76.6,65.7,No,Yes,Yes,Yes,No,Yes,Yes,4,6,3,No,3,51,2,100,78,8.5,Yes
+1927,Female,24,BCA Data Science,8.75,90.2,61.9,No,No,Yes,No,Yes,Yes,No,8,5,4,Yes,6,288,5,100,75,8.2,Yes
+1928,Male,21,BCA,6.85,85.4,86.9,No,Yes,Yes,No,Yes,No,No,7,10,4,No,5,114,5,94,86,9.2,Yes
+1929,Female,21,BCA Data Science,8.04,86.0,90.9,No,No,Yes,No,No,Yes,Yes,5,7,2,Yes,3,245,4,98,79,8.6,Yes
+1930,Male,24,BCA,9.07,89.0,76.6,Yes,No,Yes,No,Yes,Yes,No,5,7,6,Yes,0,109,3,100,81,8.8,Yes
+1931,Female,21,BCA Data Science,9.03,80.5,66.5,Yes,No,Yes,Yes,Yes,No,Yes,10,8,6,Yes,1,189,5,100,84,9.0,Yes
+1932,Male,24,BCA,5.86,76.9,60.9,No,Yes,Yes,No,No,No,Yes,5,10,0,No,2,267,4,60,66,7.5,No
+1933,Female,24,BCA Data Science,9.68,74.2,95.4,Yes,Yes,Yes,No,Yes,No,No,6,7,5,Yes,6,92,1,100,81,8.8,Yes
+1934,Male,22,BCA Data Science,6.79,75.3,89.1,Yes,Yes,No,No,Yes,No,Yes,7,9,6,No,4,244,5,100,87,9.2,Yes
+1935,Male,22,BSc CS,8.03,68.7,64.5,Yes,No,Yes,No,No,Yes,No,8,9,1,Yes,3,145,5,100,87,9.2,Yes
+1936,Female,23,BSc CS,7.12,64.1,95.4,No,Yes,No,Yes,No,No,No,7,8,1,No,4,219,0,82,73,8.1,Yes
+1937,Male,24,BSc CS,6.84,62.5,60.4,No,Yes,No,Yes,Yes,No,Yes,10,9,3,No,4,279,1,94,83,8.9,Yes
+1938,Female,20,BSc CS,9.63,89.6,70.1,No,Yes,Yes,No,Yes,No,No,7,5,6,No,4,294,0,100,75,8.2,Yes
+1939,Male,20,BCA,9.08,63.4,62.8,Yes,Yes,No,Yes,Yes,No,Yes,5,5,3,No,0,174,1,94,71,7.9,Yes
+1940,Male,21,BSc CS,6.88,79.4,75.2,Yes,Yes,No,No,No,No,Yes,6,4,4,Yes,3,162,5,99,71,7.9,Yes
+1941,Male,23,BCA,6.74,61.1,81.6,No,Yes,No,No,Yes,Yes,No,8,8,4,Yes,4,277,5,100,84,9.0,Yes
+1942,Male,24,BCA,9.08,65.5,70.3,No,No,No,Yes,Yes,No,Yes,7,9,3,No,4,216,4,100,87,9.2,Yes
+1943,Male,20,BSc CS,8.49,80.9,71.8,No,No,Yes,No,No,No,No,10,9,0,Yes,0,69,5,97,85,9.1,Yes
+1944,Female,21,BCA,8.86,97.8,69.4,No,Yes,No,Yes,Yes,No,Yes,7,9,5,Yes,1,275,4,100,87,9.2,Yes
+1945,Male,22,BSc CS,6.85,75.6,87.0,Yes,Yes,No,No,No,Yes,No,7,4,0,Yes,4,293,2,86,63,7.2,Yes
+1946,Female,22,BCA,9.68,69.5,61.8,No,No,No,No,No,No,No,4,6,6,No,2,82,0,100,78,8.5,Yes
+1947,Male,21,BCA,9.22,78.6,76.8,Yes,No,No,No,Yes,Yes,Yes,7,5,1,No,2,207,3,95,72,8.0,Yes
+1948,Female,23,BCA,6.95,71.0,64.1,No,No,Yes,Yes,Yes,No,Yes,10,5,0,Yes,1,150,1,87,67,7.6,Yes
+1949,Female,20,BCA Data Science,8.48,78.0,75.2,No,Yes,No,Yes,Yes,Yes,Yes,6,9,0,Yes,2,257,2,93,82,8.8,Yes
+1950,Female,21,BSc CS,8.77,97.2,60.6,No,No,No,No,Yes,Yes,Yes,5,8,4,No,3,6,2,100,84,9.0,Yes
+1951,Female,24,BSc CS,7.26,70.0,66.2,No,Yes,Yes,Yes,Yes,Yes,Yes,8,6,1,No,2,116,3,82,67,7.6,Yes
+1952,Female,22,BCA Data Science,7.16,88.6,61.8,No,Yes,No,No,Yes,No,Yes,4,9,4,Yes,4,166,2,99,86,9.2,Yes
+1953,Female,24,BSc CS,5.64,95.9,69.7,No,No,No,No,Yes,Yes,Yes,4,5,1,Yes,5,229,2,77,61,7.1,No
+1954,Female,22,BSc CS,9.01,63.2,76.7,No,Yes,Yes,No,Yes,No,Yes,4,5,6,No,5,86,0,100,75,8.2,Yes
+1955,Male,22,BSc CS,5.55,80.6,90.4,Yes,No,Yes,Yes,No,No,Yes,4,7,4,Yes,2,279,4,82,70,7.8,Yes
+1956,Male,22,BCA,9.34,72.6,68.7,No,Yes,Yes,Yes,Yes,No,No,7,8,2,Yes,6,217,2,100,84,9.0,Yes
+1957,Male,22,BCA Data Science,6.59,85.5,73.7,No,No,Yes,Yes,No,Yes,No,8,8,1,No,5,282,0,82,73,8.1,Yes
+1958,Female,23,BSc CS,8.27,64.7,80.4,No,No,No,Yes,Yes,No,No,7,8,5,Yes,6,245,0,100,84,9.0,Yes
+1959,Male,21,BSc CS,6.09,74.3,61.4,Yes,No,No,Yes,No,Yes,Yes,10,8,5,Yes,4,230,1,100,84,9.0,Yes
+1960,Male,20,BCA Data Science,8.91,65.7,64.3,No,Yes,No,Yes,Yes,Yes,Yes,9,8,4,Yes,1,74,0,100,84,9.0,Yes
+1961,Male,24,BCA Data Science,6.3,66.7,60.1,Yes,No,No,No,No,Yes,Yes,4,8,6,No,5,197,0,92,79,8.6,Yes
+1962,Female,24,BSc CS,9.02,67.2,74.6,Yes,No,Yes,Yes,No,No,Yes,9,4,4,Yes,6,247,2,100,72,8.0,Yes
+1963,Female,24,BCA,6.09,72.0,75.5,No,Yes,Yes,Yes,Yes,Yes,No,10,10,3,Yes,0,189,2,90,84,9.0,Yes
+1964,Male,21,BCA,7.38,62.8,60.7,Yes,No,No,No,No,No,Yes,4,4,5,No,2,153,0,91,66,7.5,Yes
+1965,Female,24,BSc CS,5.51,77.0,72.3,No,No,No,Yes,Yes,No,Yes,7,7,4,Yes,2,283,1,88,73,8.1,Yes
+1966,Female,21,BCA,7.94,83.6,66.1,No,Yes,Yes,No,Yes,No,No,10,8,0,No,0,189,4,83,73,8.1,Yes
+1967,Male,23,BCA Data Science,7.45,62.9,77.3,No,Yes,Yes,Yes,Yes,Yes,Yes,7,9,6,No,3,267,4,100,87,9.2,Yes
+1968,Male,23,BCA,6.8,63.0,92.5,No,Yes,Yes,No,No,No,No,4,7,3,No,2,46,5,78,67,7.6,Yes
+1969,Male,23,BCA Data Science,7.16,67.0,62.8,Yes,No,Yes,No,Yes,No,No,5,5,1,No,2,262,4,75,60,7.0,Yes
+1970,Male,20,BSc CS,8.99,93.5,94.7,No,No,No,Yes,Yes,No,No,6,7,6,Yes,2,222,4,100,81,8.8,Yes
+1971,Female,23,BCA Data Science,6.11,92.1,74.0,Yes,Yes,Yes,Yes,No,Yes,No,7,6,0,No,1,108,1,64,56,6.7,No
+1972,Female,20,BCA,7.66,94.9,83.2,No,Yes,Yes,Yes,No,Yes,Yes,9,6,5,No,1,46,1,100,78,8.5,Yes
+1973,Male,20,BCA,9.55,80.6,95.4,No,Yes,No,Yes,Yes,No,Yes,4,4,4,No,0,91,3,100,72,8.0,Yes
+1974,Male,20,BCA,6.3,63.1,93.4,No,Yes,No,Yes,Yes,Yes,Yes,4,7,0,No,4,160,5,66,60,7.0,No
+1975,Male,24,BCA,6.6,86.6,97.5,Yes,No,No,No,Yes,Yes,No,7,8,4,Yes,6,211,2,100,84,9.0,Yes
+1976,Male,21,BCA,6.7,77.9,64.4,Yes,Yes,No,Yes,No,Yes,Yes,10,9,6,Yes,0,132,2,100,87,9.2,Yes
+1977,Male,23,BCA,8.83,85.2,75.3,Yes,Yes,No,No,Yes,No,No,6,8,6,Yes,2,77,3,100,84,9.0,Yes
+1978,Male,24,BCA Data Science,9.71,76.5,88.3,No,Yes,Yes,No,No,Yes,No,5,6,6,Yes,3,152,3,100,78,8.5,Yes
+1979,Male,24,BCA Data Science,6.92,62.0,91.0,No,Yes,No,No,No,No,No,4,6,3,Yes,1,289,1,87,70,7.8,Yes
+1980,Male,24,BSc CS,7.83,72.7,89.1,Yes,Yes,No,No,Yes,Yes,Yes,4,4,0,No,6,259,3,82,61,7.1,Yes
+1981,Male,21,BCA Data Science,5.58,72.5,71.2,No,No,Yes,Yes,Yes,Yes,No,9,8,2,Yes,2,137,5,84,74,8.2,Yes
+1982,Female,23,BSc CS,9.34,85.3,66.9,No,No,Yes,Yes,Yes,No,Yes,4,6,0,No,1,93,2,84,68,7.7,Yes
+1983,Male,21,BSc CS,9.33,72.9,76.6,Yes,No,Yes,No,Yes,Yes,No,8,8,0,No,5,187,5,100,84,9.0,Yes
+1984,Male,24,BSc CS,8.73,62.5,60.4,No,No,Yes,No,Yes,Yes,Yes,4,6,2,Yes,0,109,3,95,75,8.2,Yes
+1985,Male,20,BCA,8.5,88.9,62.4,No,Yes,Yes,No,Yes,No,No,10,10,1,No,5,290,2,100,90,9.5,Yes
+1986,Male,23,BSc CS,7.17,61.3,75.5,No,Yes,Yes,No,No,Yes,Yes,8,7,5,No,3,134,0,99,80,8.7,Yes
+1987,Female,20,BCA Data Science,6.65,85.8,87.2,Yes,Yes,No,No,No,Yes,Yes,4,7,3,No,3,80,2,79,68,7.7,Yes
+1988,Male,21,BSc CS,6.19,73.2,60.4,No,Yes,No,No,No,Yes,No,5,6,0,No,4,130,1,67,58,6.8,No
+1989,Male,20,BSc CS,9.57,86.7,65.7,Yes,No,No,Yes,Yes,Yes,Yes,8,4,5,No,6,23,2,100,72,8.0,Yes
+1990,Female,23,BCA,8.79,80.6,94.7,No,Yes,Yes,Yes,Yes,Yes,No,7,7,1,Yes,4,3,2,100,81,8.8,Yes
+1991,Male,20,BSc CS,8.74,97.8,81.1,No,No,Yes,Yes,Yes,No,No,5,7,0,Yes,6,123,3,100,81,8.8,Yes
+1992,Male,21,BCA Data Science,6.11,74.1,79.8,Yes,No,No,No,Yes,Yes,Yes,7,4,0,No,6,82,1,74,56,6.7,Yes
+1993,Female,21,BSc CS,7.36,96.4,63.8,Yes,Yes,No,Yes,No,Yes,No,8,4,3,Yes,6,57,4,100,72,8.0,Yes
+1994,Male,20,BSc CS,7.1,80.9,63.1,No,No,No,Yes,Yes,No,Yes,9,4,6,No,1,245,4,100,72,8.0,Yes
+1995,Male,24,BCA Data Science,9.71,83.1,65.9,No,Yes,No,No,No,Yes,Yes,8,5,1,No,1,0,0,99,74,8.2,Yes
+1996,Male,20,BCA,8.14,80.4,83.8,Yes,Yes,Yes,Yes,No,Yes,No,6,7,2,Yes,5,67,5,100,81,8.8,Yes
+1997,Female,23,BCA,9.69,96.3,81.9,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,6,5,Yes,1,67,1,100,78,8.5,Yes
+1998,Male,22,BSc CS,9.16,64.8,93.3,Yes,No,Yes,Yes,Yes,Yes,No,6,4,3,No,3,100,0,100,72,8.0,Yes
+1999,Male,23,BSc CS,8.91,68.8,91.5,No,No,No,No,Yes,Yes,Yes,10,4,5,Yes,5,82,4,100,72,8.0,Yes
+2000,Male,24,BCA,9.3,86.1,88.2,No,No,No,Yes,Yes,Yes,Yes,10,4,2,Yes,6,277,2,100,72,8.0,Yes
